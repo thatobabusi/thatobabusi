@@ -20,8 +20,8 @@
 🚢 Transport & Logistics |
 🧑‍🤝‍🧑 Human Resource Management |  
 📺 Media and Advertising |
-🔬 Research 
-🛠️ I use daily: .**php**, .**blade**.php, .**js**, .**html**, .**css**, .**sqlite**, .**json**
+🔬 Research <br/><br/>
+🛠️ I use daily: .**php**, .**blade**.php, .**js**, .**html**, .**css**, .**sqlite**, .**json** <br/><br/>
 🌱 I’m currently: Learning Python, and Flask.
 <br/> <br/>
 🔗 Lets connect on
