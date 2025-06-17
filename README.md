@@ -228,11 +228,12 @@ if(Day::hasIdealWorkDay(
 
 <hr>
 
+<!--
 # 🔍 Inspiration
 <details>
     <summary>Md. Sharif Alam - <a name="github-link" href="https://github.com/Priom7">GitHub and articles</a> </summary>
 
-- Md. Sharif Alam | https://github.com/Priom7
+- Md. Sharif Alam | <a name="github-link" href="https://github.com/Priom7>Md. Sharif Alam</a>
 - https://towardsdev.com/instantly-generate-laravel-apis-from-your-database-schema-a-powerful-cli-tool-dcae914b3f24
 - https://medium.com/@priom7197/how-i-document-and-track-my-work-with-just-0-01-effort-as-a-software-developer-b99ca75fe73d
 - https://pub.towardsai.net/revolutionizing-database-interactions-with-ai-powered-sql-query-generation-da0ac8302207
@@ -242,6 +243,7 @@ if(Day::hasIdealWorkDay(
 - https://medium.com/@priom7197/%EF%B8%8Fphonetic-algorithms-to-optimize-search-engines-spell-correction-suggestions-and-more-65e06dc991d0
 - https://towardsdev.com/laravel2doc-generate-sequence-diagrams-from-your-laravel-application-in-seconds-1-2-84bf8ac8a193
 </details>
+-->
 
 <div align="center">
 
