@@ -32,7 +32,7 @@
 <a href="https://www.linkedin.com/in/thatobabusi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@thatobabusi-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
 <br/>🌍 <a name="website" href="https://thatobabusi.co.za">thatobabusi.co.za</a>
 <br/>📫 thatobabusi@yahoo.com
-<br/>☎️ (+27) 081-418-1395
+<br/>☎️ (+27) ***-***-****
 
 </div>
 
