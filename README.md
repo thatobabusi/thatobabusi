@@ -15,12 +15,12 @@
 <div align="center">
 
 🎓 Staffordshire University Alumni | 🎓 Asia Pacific University Alumni | 🎓 Mater Spei College Alumni <br/>
-‍🚀 12+ Years developing systems for various industries such as: 
+‍🚀 12+ Years developing systems for various industries such as: <br/>
 ✈️ Aviation & Auditing | 
 🚢 Transport & Logistics |
 🧑‍🤝‍🧑 Human Resource Management |  
 📺 Media and Advertising |
-🔬 Research
+🔬 Research 
 🛠️ I use daily: .**php**, .**blade**.php, .**js**, .**html**, .**css**, .**sqlite**, .**json**
 🌱 I’m currently: Learning Python, and Flask.
 <br/> <br/>
