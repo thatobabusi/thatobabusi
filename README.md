@@ -31,7 +31,7 @@
 <br/><a href="https://github.com/thatobabusi" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@thatobabusi-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/thatobabusi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@thatobabusi-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
 <br/>🌍 <a name="website" href="https://thatobabusi.co.za">thatobabusi.co.za</a>
-<br/>📫 thatobabusi@yahoo.com
+<!--<br/>📫 thatobabusi@yahoo.com-->
 <br/>☎️ (+27) ***-***-****
 
 </div>
