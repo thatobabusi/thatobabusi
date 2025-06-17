@@ -19,7 +19,7 @@
 
 🎓 Staffordshire University Alumni | 🎓 Asia Pacific University Alumni | 🎓 Mater Spei College Alumni <br/>
 ‍🚀 12+ Years developing systems for various industries such as: <br/>
-✈️ Aviation & Auditing | 
+✈️ Aviation & Auditing |
 🚢 Transport & Logistics |
 🧑‍🤝‍🧑 Human Resource Management |  
 📺 Media and Advertising |
@@ -155,6 +155,46 @@ if(Day::hasIdealWorkDay(
 
 </details>
 
+
+<details>
+  <summary><b>Articles & Publications</b></summary>
+
+<div align="center">
+
+# 📝 Articles & Publications
+<a href="https://thatobabusi.co.za/blog/php-is-not-dead-dispelling-the-myths">PHP Is Not Dead: Dispelling The Myths</a><br/>
+<a href="https://thatobabusi.co.za/blog/how-to-combat-context-switching-for-maximum-developer-productivity">How To Combat Context Switching For Maximum Developer Productivity</a><br/>
+<a href="https://thatobabusi.co.za/blog/in-defense-of-the-repository-pattern">In Defense Of The Repository Pattern</a><br/>
+<a href="https://thatobabusi.co.za/blog/not-my-fault-still-my-problem-owning-outcomes-beyond-responsibility">Not My Fault, Still My Problem: Owning Outcomes Beyond Responsibility</a><br/>
+<a href="https://thatobabusi.co.za/blog/when-explanation-meets-perception-the-real-difference-between-reasons-and-excuses">When Explanation Meets Perception: The Real Difference Between Reasons and Excuses</a><br/>
+<a href="https://thatobabusi.co.za/blog/the-art-of-taking-an-l">The Art Of Taking An L</a>
+
+
+</div>
+
+</details>
+
+<details>
+  <summary><b>Reading</b></summary>
+
+<div align="center">
+
+# 📚 Books I'm reading
+
+
+-  [x] <img src="https://img.shields.io/badge/A Thousand Splendid Suns - Khaled Hosseini-black?style=flat-square&logoColor=white" alt="fiction"><br/>
+-  [x] <img src="https://img.shields.io/badge/The Kite Runner - Khaled Hosseini-black?style=flat-square&logoColor=white" alt="fiction"><br/>
+-  [x] <img src="https://img.shields.io/badge/I Am Malala - Malala Yousafzai & Christina Lamb-black?style=flat-square&logoColor=white" alt="fiction"><br/>
+-  [x] <img src="https://img.shields.io/badge/White Ninja - Eric van Lustbader-black?style=flat-square&logoColor=white" alt="fiction"><br/>
+-  [x] <img src="https://img.shields.io/badge/Black Blade - Eric van Lustbader-black?style=flat-square&logoColor=white" alt="fiction"><br/>
+-  [x] <img src="https://img.shields.io/badge/Zero - Eric van Lustbader-black?style=flat-square&logoColor=white" alt="fiction"><br/>
+-  [ ] <img src="https://img.shields.io/badge/The Jian - Eric van Lustbader-black?style=flat-square&logoColor=white" alt="fiction"><br/>
+-  [ ] <img src="https://img.shields.io/badge/Good Strategy Bad Strategy: The Difference and Why It Matter - Richard P. Rumelt-black?style=flat-square&logoColor=white" alt="fiction"><br/>
+
+</div>
+</details>
+
+
 </div>
 
 <hr>
@@ -208,23 +248,7 @@ if(Day::hasIdealWorkDay(
 
 
 <hr>
-<details>
-  <summary><b>Articles & Publications</b></summary>
 
-<div align="center">
-
-# 📝 Articles & Publications
-<a href="https://thatobabusi.co.za/blog/php-is-not-dead-dispelling-the-myths">PHP Is Not Dead: Dispelling The Myths</a><br/>
-<a href="https://thatobabusi.co.za/blog/how-to-combat-context-switching-for-maximum-developer-productivity">How To Combat Context Switching For Maximum Developer Productivity</a><br/>
-<a href="https://thatobabusi.co.za/blog/in-defense-of-the-repository-pattern">In Defense Of The Repository Pattern</a><br/>
-<a href="https://thatobabusi.co.za/blog/not-my-fault-still-my-problem-owning-outcomes-beyond-responsibility">Not My Fault, Still My Problem: Owning Outcomes Beyond Responsibility</a><br/>
-<a href="https://thatobabusi.co.za/blog/when-explanation-meets-perception-the-real-difference-between-reasons-and-excuses">When Explanation Meets Perception: The Real Difference Between Reasons and Excuses</a><br/>
-<a href="https://thatobabusi.co.za/blog/the-art-of-taking-an-l">The Art Of Taking An L</a>
-
-
-</div>
-
-</details>
 
 <hr>
 
