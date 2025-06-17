@@ -1,3 +1,6 @@
+<!--
+**thatobabusi/thatobabusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 <h1 align="center"> 👨‍💻 Thato Babusi</h1>
 
@@ -240,18 +243,12 @@ if(Day::hasIdealWorkDay(
 - https://towardsdev.com/laravel2doc-generate-sequence-diagrams-from-your-laravel-application-in-seconds-1-2-84bf8ac8a193
 </details>
 
+<div align="center">
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/thato_babusi/ "Follow on Instagram")
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/2adzEHkhvtXVi151cNYMWr?si=b2e0912258194259 "My Spotify playlists")
+
+</div>
+
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
-<!--
-**thatobabusi/thatobabusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
