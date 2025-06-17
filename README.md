@@ -32,7 +32,7 @@
 <a href="https://www.linkedin.com/in/thatobabusi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@thatobabusi-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
 <br/>🌍 <a name="website" href="https://thatobabusi.co.za">thatobabusi.co.za</a>
 <br/>📫 thatobabusi@yahoo.com
-<br/>☎️ (+27) ----------
+<br/>☎️ (+27) ***-***-****
 
 </div>
 
@@ -194,6 +194,18 @@ if(Day::hasIdealWorkDay(
 </div>
 </details>
 
+<details>
+  <summary><b>Travels</b></summary>
+
+<div align="center">
+
+<h2 align="center"> 🛫  The Adventure So Far </h2>
+
+<img src="Thato-Read-me.svg" alt="https://github.com/thatobabusi" />
+
+</div>
+</details>
+
 
 </div>
 
@@ -292,4 +304,6 @@ if(Day::hasIdealWorkDay(
 </div>
 
 <h2  align="center"> ⬇️ Check Out My Repos ⬇️ </h2>
+
+
 
