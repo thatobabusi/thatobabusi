@@ -36,45 +36,53 @@
 
 </div>
 
-<div align="center">
-<details>
-  <summary><b>See More</b></summary>
+<hr>
 
-<div align="left">
+<h2 align="center"> 🔭 Tech Stack </h2>
 
-```
-if (You::lookingFor('PHP Developer')) {
+<p align="center">
+  <img src="https://img.shields.io/badge/github%20-%231572B6.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/bitbucket%20-%231572B6.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/html5%20-%231572B6.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/bootstrap%20-%231572B6.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mariadb%20-%231572B6.svg?&style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/php%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/laravel%20-%231572B6.svg?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/postman%20-%231572B6.svg?&style=for-the-badge&logo=postman&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/flask%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/azure-devops%20-%231572B6.svg?&style=for-the-badge&logo=azure&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/cloud-ways%20-%231572B6.svg?&style=for-the-badge&logo=cloud-ways&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
 
-    $requirements = Requirements::for('Systems Developer')
-                        ->withExperience(12)
-                        ->stack('PHP')
-                        ->usingDaily([
-                            '.php', '.blade.php', '.js', '.html', '.css', '.sqlite', '.json',
-                        ])
-                        ->connectVia([
-                            'LinkedIn',
-                            'GitHub',
-                            'Twitter',
-                            'Mail',
-                        ]);
-    
-    return Developer::withExperienceIn(stack: 'PHP', experience: 12)
-        ->withExperienceIn(stack: 'Laravel', experience: 12)
-        ->whoCan(['build APIs', 'design clean architecture', 'maintain systems'])
-        ->reachOutOn('LinkedIn', 'GitHub', 'Email')
-        ->letsBridgeTheDivide()
-        ->letsTalk()
-        ->ifWeComeToAnAgreement(function () {
-            return Plan::make()
-                ->withTimeline('realistic')
-                ->withGoals(['solve problems', 'create value', 'scale impact']);
-    });
-}
-```
-</div>
-
-</details>
-</div>
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Windows">
+    <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white" alt="Windows">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/MacOS">
+    <img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white" alt="macOS">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Linux">
+    <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Editor-PHPStorm-blue?style=flat-square&logo=phpstorm&logoColor=white" alt="PHPStorm">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Editor-WebStorm-blue?style=flat-square&logo=webstorm&logoColor=white" alt="WebStorm">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Laravel-Homestead-blue?style=flat-square&logo=laravel-homestead&logoColor=white" alt="WebStorm">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Infrastructure--as--Code-Bicep--FFDA18?style=flat-square&logo=opentofu&logoColor=white" alt="OpenTofu">
+  </a>
+</p>
 
 <hr>
 
@@ -156,6 +164,48 @@ if(Day::hasIdealWorkDay(
 </details>
 
 
+
+<div align="center">
+<details>
+  <summary><b>Let's work</b></summary>
+
+<div align="left">
+
+```
+if (You::lookingFor('PHP Developer')) {
+
+    $requirements = Requirements::for('Systems Developer')
+                        ->withExperience(12)
+                        ->stack('PHP')
+                        ->usingDaily([
+                            '.php', '.blade.php', '.js', '.html', '.css', '.sqlite', '.json',
+                        ])
+                        ->connectVia([
+                            'LinkedIn',
+                            'GitHub',
+                            'Twitter',
+                            'Mail',
+                        ]);
+    
+    return Developer::withExperienceIn(stack: 'PHP', experience: 12)
+        ->withExperienceIn(stack: 'Laravel', experience: 12)
+        ->whoCan(['build APIs', 'design clean architecture', 'maintain systems'])
+        ->reachOutOn('LinkedIn', 'GitHub', 'Email')
+        ->letsBridgeTheDivide()
+        ->letsTalk()
+        ->ifWeComeToAnAgreement(function () {
+            return Plan::make()
+                ->withTimeline('realistic')
+                ->withGoals(['solve problems', 'create value', 'scale impact']);
+    });
+}
+```
+</div>
+
+</details>
+</div>
+
+
 <details>
   <summary><b>Articles & Publications</b></summary>
 
@@ -206,60 +256,23 @@ if(Day::hasIdealWorkDay(
 </div>
 </details>
 
+<details>
+  <summary><b>The Wishlist</b></summary>
+
+<div align="center">
+
+<h2 align="center"> 🛫  </h2>
+
+<img src="Thato-Read-Me-Travel-Wishlist-Word-Cloud.svg" alt="https://github.com/thatobabusi" />
+
+</div>
+</details>
+
 
 </div>
 
 <hr>
 
-<h2 align="center"> 🔭 Tech Stack </h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/github%20-%231572B6.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/bitbucket%20-%231572B6.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/html5%20-%231572B6.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/bootstrap%20-%231572B6.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mariadb%20-%231572B6.svg?&style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/php%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/laravel%20-%231572B6.svg?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/postman%20-%231572B6.svg?&style=for-the-badge&logo=postman&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/flask%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/azure-devops%20-%231572B6.svg?&style=for-the-badge&logo=azure&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/cloud-ways%20-%231572B6.svg?&style=for-the-badge&logo=cloud-ways&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/Windows">
-    <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white" alt="Windows">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/MacOS">
-    <img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white" alt="macOS">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Linux">
-    <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Editor-PHPStorm-blue?style=flat-square&logo=phpstorm&logoColor=white" alt="PHPStorm">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Editor-WebStorm-blue?style=flat-square&logo=webstorm&logoColor=white" alt="WebStorm">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Laravel-Homestead-blue?style=flat-square&logo=laravel-homestead&logoColor=white" alt="WebStorm">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Infrastructure--as--Code-Bicep--FFDA18?style=flat-square&logo=opentofu&logoColor=white" alt="OpenTofu">
-  </a>
-</p>
-
-
-
-<hr>
 
 <div align="center">
 
@@ -303,7 +316,11 @@ if(Day::hasIdealWorkDay(
 
 </div>
 
-<h2  align="center"> ⬇️ Check Out My Repos ⬇️ </h2>
+<h2  align="center"> Check Out My Repos</h2>
+<h2  align="center"> ⬇️ </h2>
+
+
+
 
 
 
