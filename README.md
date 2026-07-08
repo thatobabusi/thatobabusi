@@ -32,9 +32,9 @@
 <a href="https://www.linkedin.com/in/thatobabusi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@thatobabusi-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
 
 **🏢 Business**
-<br/><strong>Email:</strong> <a href="mailto:thatobabusi@yahoo.com">thatobabusi@yahoo.com.com</a>
+<br/><strong>Email:</strong> <a href="mailto:thatobabusi@yahoo.com">thatobabusi@yahoo.com</a>
 <br/><strong>Website:</strong> <a href="https://thatobabusi.co.za">thatobabusi.co.za</a>
-<br/><strong>Services:</strong> Software Development | Digital Solutions
+<br/><strong>Services:</strong> Software Development | Digital Solutions | Africa first solutions
 
 </div>
 
