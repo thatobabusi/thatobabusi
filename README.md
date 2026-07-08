@@ -5,7 +5,7 @@
 <h1 align="center"> 👨‍💻 Thato Babusi</h1>
 
 <p align="center">
-    A seasoned Systems Developer by day 🌤️, and an aspiring Music Producer by night🌛.
+    A seasoned Systems Developer building scalable digital solutions.
 
   <br> 
   <img src="https://komarev.com/ghpvc/?username=thatobabusi" alt="https://github.com/thatobabusi" />
@@ -24,15 +24,17 @@
 🧑‍🤝‍🧑 Human Resource Management |  
 📺 Media and Advertising |
 🔬 Research <br/><br/>
-🛠️ I use daily: .**php**, .**blade**.php, .**js**, .**html**, .**css**, .**sqlite**, .**json** <br/><br/>
-🌱 I’m currently: Learning Python, and Flask.
+🛠️ I use daily: .**php**, .**blade**.php, .**laravel**, .**js**, .**html**, .**css**, .**mysql** <br/><br/>
+🌱 I’m currently: Expanding expertise in modern web frameworks and cloud solutions.
 <br/> <br/>
-🔗 Lets connect on
+**🤝 Let's Connect**
 <br/><a href="https://github.com/thatobabusi" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@thatobabusi-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/thatobabusi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@thatobabusi-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
-<br/>🌍 <a name="website" href="https://thatobabusi.co.za">thatobabusi.co.za</a>
-<!-- <br/>📫 thatobabusi@yahoo.com -->
-<!-- <br/>☎️ (+27) ***-***-**** -->
+
+**🏢 Business**
+<br/><strong>Email:</strong> <a href="mailto:thatobabusiofficial@gmail.com">thatobabusiofficial@gmail.com</a>
+<br/><strong>Website:</strong> <a href="https://thatobabusi.co.za">thatobabusi.co.za</a>
+<br/><strong>Services:</strong> Software Development | Digital Solutions
 
 </div>
 
@@ -41,9 +43,8 @@
 <h2 align="center"> 🔭 Tech Stack </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/github%20-%231572B6.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/bitbucket%20-%231572B6.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git%20-%23F1502F.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/html5%20-%231572B6.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/bootstrap%20-%231572B6.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -54,10 +55,8 @@
   <img src="https://img.shields.io/badge/laravel%20-%231572B6.svg?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/postman%20-%231572B6.svg?&style=for-the-badge&logo=postman&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/flask%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/azure-devops%20-%231572B6.svg?&style=for-the-badge&logo=azure&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/cloud-ways%20-%231572B6.svg?&style=for-the-badge&logo=cloud-ways&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/azure%20-%230078D4.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -85,6 +84,7 @@
 </p>
 
 <hr>
+
 
 <div align="center">
 <h2 align="center"> 👨‍💻 About Me</h2>
@@ -121,21 +121,23 @@ Developer::specializesIn()
 
 ```
 Developer::currently()
-    ->buildingApisFor('Exciting Day-Job Project')
-    ->craftingModules([
-        'reusable components',
-        'modular architecture',
-        'faster prototyping'
+    ->buildingApisFor('Enterprise solutions')
+    ->managingCompanies([
+        'ThatoBabusiDev - Software Consulting',
+        'DigitalGardenMedia - Bespoke Digital Solutions'
     ])
     ->upskilling([
-        'Java Fullstack Course',
-        'short tech courses',
+        'Modern web frameworks',
+        'Cloud infrastructure',
+        'System design patterns'
     ])
-    ->seekingCollaboration('Digital Marketer')
-    ->toDriveTrafficTo(['Blog', 'Upcoming Project'])
-    ->collaboratingWith('trusted developers in my network')
-    ->composingInstrumentals('Spring Compilation')
-    ->releasingSoon('Spring 2025');
+    ->workingOn([
+        'Client projects',
+        'Product development',
+        'Team collaboration'
+    ])
+    ->seekingCollaboration('Digital professionals')
+    ->collaboratingWith('trusted developers in my network');
 ```
 </div>
 
@@ -207,18 +209,40 @@ if (You::lookingFor('PHP Developer')) {
 
 
 <details>
+  <summary><b>📊 Statistics</b></summary>
+
+<div align="center">
+
+# 📊 Quick Stats (2026)
+
+| Metric | Value |
+|--------|-------|
+| 💻 Active Projects | 10+ |
+| 📝 Published Articles | 6+ on thatobabusi.co.za |
+| ⭐ Years Experience | 13+ years systems development |
+| 🌍 BBBEE Status | Level 1 - 100% Black-owned |
+
+</div>
+
+</details>
+
+<details>
   <summary><b>Articles & Publications</b></summary>
 
 <div align="center">
 
 # 📝 Articles & Publications
-<a href="https://thatobabusi.co.za/blog/php-is-not-dead-dispelling-the-myths">PHP Is Not Dead: Dispelling The Myths</a><br/>
-<a href="https://thatobabusi.co.za/blog/how-to-combat-context-switching-for-maximum-developer-productivity">How To Combat Context Switching For Maximum Developer Productivity</a><br/>
-<a href="https://thatobabusi.co.za/blog/in-defense-of-the-repository-pattern">In Defense Of The Repository Pattern</a><br/>
-<a href="https://thatobabusi.co.za/blog/not-my-fault-still-my-problem-owning-outcomes-beyond-responsibility">Not My Fault, Still My Problem: Owning Outcomes Beyond Responsibility</a><br/>
-<a href="https://thatobabusi.co.za/blog/when-explanation-meets-perception-the-real-difference-between-reasons-and-excuses">When Explanation Meets Perception: The Real Difference Between Reasons and Excuses</a><br/>
-<a href="https://thatobabusi.co.za/blog/the-art-of-taking-an-l">The Art Of Taking An L</a>
 
+**Latest:** Published on [thatobabusi.co.za/blog](https://thatobabusi.co.za/blog)
+
+- 📖 <a href="https://thatobabusi.co.za/blog/php-is-not-dead-dispelling-the-myths">PHP Is Not Dead: Dispelling The Myths</a>
+- 📖 <a href="https://thatobabusi.co.za/blog/how-to-combat-context-switching-for-maximum-developer-productivity">How To Combat Context Switching For Maximum Developer Productivity</a>
+- 📖 <a href="https://thatobabusi.co.za/blog/in-defense-of-the-repository-pattern">In Defense Of The Repository Pattern</a>
+- 📖 <a href="https://thatobabusi.co.za/blog/not-my-fault-still-my-problem-owning-outcomes-beyond-responsibility">Not My Fault, Still My Problem: Owning Outcomes Beyond Responsibility</a>
+- 📖 <a href="https://thatobabusi.co.za/blog/when-explanation-meets-perception-the-real-difference-between-reasons-and-excuses">When Explanation Meets Perception: The Real Difference Between Reasons and Excuses</a>
+- 📖 <a href="https://thatobabusi.co.za/blog/the-art-of-taking-an-l">The Art Of Taking An L</a>
+
+**🔗 Subscribe:** [Blog RSS Feed](https://thatobabusi.co.za/blog)
 
 </div>
 
@@ -244,6 +268,7 @@ if (You::lookingFor('PHP Developer')) {
 </div>
 </details>
 
+
 <details>
   <summary><b>Travels</b></summary>
 
@@ -251,19 +276,19 @@ if (You::lookingFor('PHP Developer')) {
 
 <h2 align="center"> 🛫  The Adventure So Far </h2>
 
-<img src="Thato-Read-me.svg" alt="https://github.com/thatobabusi" />
+<img src="Thato-Read-me.svg" alt="Travel history map" />
 
 </div>
 </details>
 
 <details>
-  <summary><b>The Wishlist</b></summary>
+  <summary><b>Travel Wishlist</b></summary>
 
 <div align="center">
 
-<h2 align="center"> 🛫  </h2>
+<h2 align="center"> ✈️ Dream Destinations</h2>
 
-<img src="Thato-Read-Me-Travel-Wishlist-Word-Cloud.svg" alt="https://github.com/thatobabusi" />
+<img src="Thato-Read-Me-Travel-Wishlist-Word-Cloud.svg" alt="Travel wishlist" />
 
 </div>
 </details>
@@ -316,8 +341,15 @@ if (You::lookingFor('PHP Developer')) {
 
 </div>
 
-<h2  align="center"> Check Out My Repos</h2>
-<h2  align="center"> ⬇️ </h2>
+<h2  align="center"> 💻 My Work</h2>
+
+<div align="center">
+
+I'm actively building software solutions for businesses and creating digital experiences that matter.
+
+**[View All Repositories →](https://github.com/thatobabusi?tab=repositories)**
+
+</div>
 
 
 
