@@ -85,6 +85,65 @@
 
 <hr>
 
+<h2 align="center"> 🚀 Featured Projects </h2>
+
+<div align="center">
+
+### Public & Notable Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="45%">
+      <h3>🎵 <a href="https://www.edensfrequency.online/" target="_blank">EdensFrequency</a></h3>
+      <p>Creative platform for music production, sound design, and audio-visual conceptualization. Full-spectrum production across genres including boom bap, soul, and experimental soundscapes.</p>
+      <p><strong>Stack:</strong> Laravel, Bootstrap 5, MySQL</p>
+    </td>
+    <td align="center" width="5%"></td>
+    <td align="center" width="45%">
+      <h3>🏠 <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">Laravel Real Estate Manager</a></h3>
+      <p>Modern platform for real estate agencies with agent dashboards, buyer/tenant engagement, property marketing, ratings, and messaging features.</p>
+      <p><strong>Stack:</strong> Laravel, MySQL, Bootstrap</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" height="20"></td>
+  </tr>
+  <tr>
+    <td align="center" width="45%">
+      <h3>💰 <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">Laravel Expense Manager</a></h3>
+      <p>Self-hosted financial tracking application. Track expenses, incomes, accounts, assets and investments. Your money, on a dashboard you actually own.</p>
+      <p><strong>Stack:</strong> Laravel, MySQL, Bootstrap</p>
+    </td>
+    <td align="center" width="5%"></td>
+    <td align="center" width="45%">
+      <h3>🎬 <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">CrateLab</a></h3>
+      <p>Self-hosted music production workstation. Sample management, stem separation, MIDI composition, and instrument creation without external SaaS dependencies.</p>
+      <p><strong>Stack:</strong> Laravel, Python, MySQL</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" height="20"></td>
+  </tr>
+  <tr>
+    <td align="center" width="45%">
+      <h3>✈️ <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">SEAMS</a></h3>
+      <p>Smart Electronic Aviation Management System. Enterprise software for aircraft charter operations and aviation auditing services.</p>
+      <p><strong>Stack:</strong> PHP, Laravel, MySQL</p>
+    </td>
+    <td align="center" width="5%"></td>
+    <td align="center" width="45%">
+      <h3>🛍️ <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">All Kasi Showcase</a></h3>
+      <p>E-commerce showcase for premium sportswear brand featuring product catalog, brand storytelling, video content, and customer reviews.</p>
+      <p><strong>Stack:</strong> Laravel, Bootstrap, MySQL</p>
+    </td>
+  </tr>
+</table>
+
+📚 **More projects available in my <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">portfolio</a>** including Laravel Packages Collection, Personal Home Media Manager, and Laravel Core UI Starter Kit.
+
+</div>
+
+<hr>
 
 <div align="center">
 <h2 align="center"> 👨‍💻 About Me</h2>
