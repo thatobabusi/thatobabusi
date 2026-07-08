@@ -32,7 +32,7 @@
 <a href="https://www.linkedin.com/in/thatobabusi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@thatobabusi-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
 
 **🏢 Business**
-<br/><strong>Email:</strong> <a href="mailto:thatobabusiofficial@gmail.com">thatobabusiofficial@gmail.com</a>
+<br/><strong>Email:</strong> <a href="mailto:thatobabusi@yahoo.com">thatobabusi@yahoo.com.com</a>
 <br/><strong>Website:</strong> <a href="https://thatobabusi.co.za">thatobabusi.co.za</a>
 <br/><strong>Services:</strong> Software Development | Digital Solutions
 
@@ -345,7 +345,7 @@ if (You::lookingFor('PHP Developer')) {
 
 <div align="center">
 
-I'm actively building software solutions for businesses and creating digital experiences that matter.
+I'm actively building software solutions and creating digital experiences that matter. My current obsession is *African Solutions for African Challenges*. 
 
 **[View All Repositories →](https://github.com/thatobabusi?tab=repositories)**
 
