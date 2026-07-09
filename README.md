@@ -33,7 +33,8 @@
 **🤝 Let's Connect**
 <br/><a href="https://github.com/thatobabusi" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@thatobabusi-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/thatobabusi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@thatobabusi-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
-
+<a href="https://www.instagram.com/thato_babusi" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white"></a>
+<a href="https://open.spotify.com/playlist/2adzEHkhvtXVi151cNYMWr?si=b2e0912258194259" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white"></a>
 
 <br/><strong>Website:</strong> <a href="https://thatobabusi.co.za">thatobabusi.co.za</a>
 <br/><strong>Email:</strong> <a href="https://thatobabusi.co.za/contact">thatobabusi.co.za/contact</a>
@@ -79,6 +80,108 @@
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thatobabusi&theme=tokyo-night&hide_border=true&area=true" width="92%" alt="Contribution activity graph" />
+
+</div>
+
+<hr>
+
+<h2 align="center"> 🚀 Featured Projects </h2>
+
+<div align="center">
+
+### Public & Notable Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="45%">
+      <h3>🖥️ <a href="https://github.com/thatobabusi/win12" target="_blank">win12 — Web Desktop</a></h3>
+      <p>An open-source Windows-style desktop that runs in the browser. Installable PWA with a boot/login experience, theming (including an Ubuntu theme), and full i18n across 5 locales.</p>
+      <p><strong>Stack:</strong> JavaScript, PWA, GitHub Actions</p>
+    </td>
+    <td align="center" width="5%"></td>
+    <td align="center" width="45%">
+      <h3>🎵 <a href="https://www.edensfrequency.online/" target="_blank">EdensFrequency</a></h3>
+      <p>Creative platform for music production, sound design, and audio-visual conceptualization. Full-spectrum production across genres including boom bap, soul, and experimental soundscapes.</p>
+      <p><strong>Stack:</strong> Laravel, Bootstrap 5, MySQL</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" height="20"></td>
+  </tr>
+  <tr>
+    <td align="center" width="45%">
+      <h3>🏠 <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">Laravel Real Estate Manager</a></h3>
+      <p>Modern platform for real estate agencies with agent dashboards, buyer/tenant engagement, property marketing, ratings, and messaging features.</p>
+      <p><strong>Stack:</strong> Laravel, MySQL, Bootstrap</p>
+    </td>
+    <td align="center" width="5%"></td>
+    <td align="center" width="45%">
+      <h3>💰 <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">Laravel Expense Manager</a></h3>
+      <p>Self-hosted financial tracking application. Track expenses, incomes, accounts, assets and investments. Your money, on a dashboard you actually own.</p>
+      <p><strong>Stack:</strong> Laravel, MySQL, Bootstrap</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" height="20"></td>
+  </tr>
+  <tr>
+    <td align="center" width="45%">
+      <h3>🎬 <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">CrateLab</a></h3>
+      <p>Self-hosted music production workstation. Sample management, stem separation, MIDI composition, and instrument creation without external SaaS dependencies.</p>
+      <p><strong>Stack:</strong> Laravel, Python, MySQL</p>
+    </td>
+    <td align="center" width="5%"></td>
+    <td align="center" width="45%">
+      <h3>🎬 <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">Personal Home Media Manager</a></h3>
+      <p>Self-hosted media organization system for home networks. Organize and play movies, TV series, music, videos, and photos stored locally.</p>
+      <p><strong>Stack:</strong> Laravel, Python, MySQL</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" height="20"></td>
+  </tr>
+  <tr>
+    <td align="center" width="45%">
+      <h3>🛍️ <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">All Kasi Showcase</a></h3>
+      <p>E-commerce showcase for premium sportswear brand featuring product catalog, brand storytelling, video content, and customer reviews.</p>
+      <p><strong>Stack:</strong> Laravel, Bootstrap, MySQL</p>
+    </td>
+    <td align="center" width="5%"></td>
+    <td align="center" width="45%">
+      <h3>📦 <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">Laravel Packages Collection</a></h3>
+      <p>Growing library of Laravel packages for development. Includes cheat sheets, deployment tools, generators, and API helpers.</p>
+      <p><strong>Stack:</strong> Laravel, PHP</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" height="20"></td>
+  </tr>
+  <tr>
+    <td align="center" width="45%">
+      <h3>🏗️ <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">Laravel Core UI Starter Kit</a></h3>
+      <p>Pre-configured Laravel development foundation. Includes admin dashboard, DataTables, role-based access control, and database browser.</p>
+      <p><strong>Stack:</strong> Laravel, Bootstrap, MySQL</p>
+    </td>
+    <td align="center" width="5%"></td>
+    <td align="center" width="45%">
+      <h3>📚 <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">Full Portfolio</a></h3>
+      <p>More projects, case studies, and write-ups — including SEAMS (Smart Electronic Aviation Management System) and enterprise work across 5 industries.</p>
+      <p><strong>View:</strong> thatobabusi.co.za</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<hr>
+
+<h2  align="center"> 💻 My Work</h2>
+
+<div align="center">
+
+I'm actively building software solutions and creating digital experiences that matter. My current obsession is *African Solutions for African Challenges*.
+
+**[View All Repositories →](https://github.com/thatobabusi?tab=repositories)**
 
 </div>
 
@@ -239,133 +342,6 @@
 </div>
 </details>
 
-
-</div>
-
-<hr>
-
-<h2 align="center"> 🚀 Featured Projects </h2>
-
-<div align="center">
-
-### Public & Notable Projects
-
-<table align="center">
-  <tr>
-    <td align="center" width="45%">
-      <h3>🖥️ <a href="https://github.com/thatobabusi/win12" target="_blank">win12 — Web Desktop</a></h3>
-      <p>An open-source Windows-style desktop that runs in the browser. Installable PWA with a boot/login experience, theming (including an Ubuntu theme), and full i18n across 5 locales.</p>
-      <p><strong>Stack:</strong> JavaScript, PWA, GitHub Actions</p>
-    </td>
-    <td align="center" width="5%"></td>
-    <td align="center" width="45%">
-      <h3>🎵 <a href="https://www.edensfrequency.online/" target="_blank">EdensFrequency</a></h3>
-      <p>Creative platform for music production, sound design, and audio-visual conceptualization. Full-spectrum production across genres including boom bap, soul, and experimental soundscapes.</p>
-      <p><strong>Stack:</strong> Laravel, Bootstrap 5, MySQL</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" height="20"></td>
-  </tr>
-  <tr>
-    <td align="center" width="45%">
-      <h3>🏠 <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">Laravel Real Estate Manager</a></h3>
-      <p>Modern platform for real estate agencies with agent dashboards, buyer/tenant engagement, property marketing, ratings, and messaging features.</p>
-      <p><strong>Stack:</strong> Laravel, MySQL, Bootstrap</p>
-    </td>
-    <td align="center" width="5%"></td>
-    <td align="center" width="45%">
-      <h3>💰 <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">Laravel Expense Manager</a></h3>
-      <p>Self-hosted financial tracking application. Track expenses, incomes, accounts, assets and investments. Your money, on a dashboard you actually own.</p>
-      <p><strong>Stack:</strong> Laravel, MySQL, Bootstrap</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" height="20"></td>
-  </tr>
-  <tr>
-    <td align="center" width="45%">
-      <h3>🎬 <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">CrateLab</a></h3>
-      <p>Self-hosted music production workstation. Sample management, stem separation, MIDI composition, and instrument creation without external SaaS dependencies.</p>
-      <p><strong>Stack:</strong> Laravel, Python, MySQL</p>
-    </td>
-    <td align="center" width="5%"></td>
-    <td align="center" width="45%">
-      <h3>🎬 <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">Personal Home Media Manager</a></h3>
-      <p>Self-hosted media organization system for home networks. Organize and play movies, TV series, music, videos, and photos stored locally.</p>
-      <p><strong>Stack:</strong> Laravel, Python, MySQL</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" height="20"></td>
-  </tr>
-  <tr>
-    <td align="center" width="45%">
-      <h3>🛍️ <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">All Kasi Showcase</a></h3>
-      <p>E-commerce showcase for premium sportswear brand featuring product catalog, brand storytelling, video content, and customer reviews.</p>
-      <p><strong>Stack:</strong> Laravel, Bootstrap, MySQL</p>
-    </td>
-    <td align="center" width="5%"></td>
-    <td align="center" width="45%">
-      <h3>📦 <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">Laravel Packages Collection</a></h3>
-      <p>Growing library of Laravel packages for development. Includes cheat sheets, deployment tools, generators, and API helpers.</p>
-      <p><strong>Stack:</strong> Laravel, PHP</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" height="20"></td>
-  </tr>
-  <tr>
-    <td align="center" width="45%">
-      <h3>🏗️ <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">Laravel Core UI Starter Kit</a></h3>
-      <p>Pre-configured Laravel development foundation. Includes admin dashboard, DataTables, role-based access control, and database browser.</p>
-      <p><strong>Stack:</strong> Laravel, Bootstrap, MySQL</p>
-    </td>
-    <td align="center" width="5%"></td>
-    <td align="center" width="45%">
-      <h3>📚 <a href="https://thatobabusi.co.za/professional/my-portfolio" target="_blank">Full Portfolio</a></h3>
-      <p>More projects, case studies, and write-ups — including SEAMS (Smart Electronic Aviation Management System) and enterprise work across 5 industries.</p>
-      <p><strong>View:</strong> thatobabusi.co.za</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<hr>
-
-<h2  align="center"> 💻 My Work</h2>
-
-<div align="center">
-
-I'm actively building software solutions and creating digital experiences that matter. My current obsession is *African Solutions for African Challenges*.
-
-**[View All Repositories →](https://github.com/thatobabusi?tab=repositories)**
-
-</div>
-
-<hr>
-
-<div align="center">
-
-```
-
-------------------------------------------------------------------------------------------------------------------------
-                  _____ _           _          ____        _               _
-                 |_   _| |__   __ _| |_ ___   | __ )  __ _| |__  _   _ ___(_)
-                   | | | '_ \ / _` | __/ _ \  |  _ \ / _` | '_ \| | | / __| |
-                   | | | | | | (_| | || (_) | | |_) | (_| | |_) | |_| \__ \ |
-                   |_| |_| |_|\__,_|\__\___/  |____/ \__,_|_.__/ \__,_|___/_|
-                
-------------------------------------------------------------------------------------------------------------------------
-```
-
-</div>
-
-<div align="center">
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/thato_babusi/ "Follow on Instagram")
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/2adzEHkhvtXVi151cNYMWr?si=b2e0912258194259 "My Spotify playlists")
 
 </div>
 
