@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:38bdf8&height=180&section=header&text=Thato%20Babusi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Developer%20%7C%20Laravel%20Specialist%20%7C%20Founder%2C%20Babusi%20Group&descAlignY=55&descSize=16" alt="Thato Babusi banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:38bdf8&height=180&section=header&text=Thato%20Babusi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Developer%20%7C%20Laravel%20Specialist%20%7C%20Founder%2C%20Babusi%20Holdings%20Group&descAlignY=55&descSize=16" alt="Thato Babusi banner" />
 
 <a href="https://github.com/thatobabusi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Building+scalable+digital+solutions+for+13%2B+years;African+Solutions+for+African+Challenges;Laravel+%E2%80%A2+APIs+%E2%80%A2+Self-Hosted+%E2%80%A2+Automation" alt="Typing intro" />
@@ -99,7 +99,7 @@ Developer::specializesIn()
 ```php
 Developer::currently()
     ->buildingApisFor('Enterprise solutions')
-    ->managingGroup('Babusi Group', [
+    ->managingGroup('Babusi Holdings Group', [
         'ThatoBabusiDev - Software Consulting',
         'DigitalGardenMedia - Bespoke Digital Solutions',
         'EdensFrequency - Music Production & Sound Design'
