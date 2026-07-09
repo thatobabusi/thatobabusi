@@ -26,6 +26,7 @@ This repository powers the GitHub profile of [@thatobabusi](https://github.com/t
 |:-----|:------|
 | [ARTICLES.md](ARTICLES.md) | Articles |
 | [CHANGELOG.md](CHANGELOG.md) | Changelog |
+| [LINK-HEALTH.md](LINK-HEALTH.md) | Link Health |
 | [PROJECTS.md](PROJECTS.md) | Projects |
 | [RELEASES.md](RELEASES.md) | Releases |
 | [VERSIONING.md](VERSIONING.md) | Versioning |
