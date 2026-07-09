@@ -437,18 +437,7 @@ I'm actively building software solutions and creating digital experiences that m
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatobabusi&theme=tokyonight" width="92%" alt="Profile details and contribution timeline" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thatobabusi&theme=tokyonight" width="30.5%" alt="Top languages by repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thatobabusi&theme=tokyonight" width="30.5%" alt="Top languages by commit" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thatobabusi&theme=tokyonight" width="30.5%" alt="Stats summary" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thatobabusi&theme=tokyonight&utcOffset=2" width="30.5%" alt="Commits per hour of day" />
-<img src="https://streak-stats.demolab.com?user=thatobabusi&theme=tokyonight&hide_border=true" width="61.5%" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=thatobabusi&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
 <br/>
 
