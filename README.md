@@ -431,12 +431,24 @@ I'm actively building software solutions and creating digital experiences that m
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thatobabusi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatobabusi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+<a href="https://github.com/thatobabusi?tab=followers"><img src="https://img.shields.io/github/followers/thatobabusi?style=for-the-badge&logo=github&color=2563eb&labelColor=1a1b27" alt="GitHub followers" /></a>
+&nbsp;
+<a href="https://github.com/thatobabusi?tab=repositories"><img src="https://img.shields.io/github/stars/thatobabusi?style=for-the-badge&logo=github&color=2563eb&labelColor=1a1b27" alt="GitHub stars" /></a>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatobabusi&theme=tokyonight" width="92%" alt="Profile details and contribution timeline" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=thatobabusi&theme=tokyonight&hide_border=true" height="165" alt="Contribution streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thatobabusi&theme=tokyonight" width="30.5%" alt="Top languages by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thatobabusi&theme=tokyonight" width="30.5%" alt="Top languages by commit" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thatobabusi&theme=tokyonight" width="30.5%" alt="Stats summary" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thatobabusi&theme=tokyonight&utcOffset=2" width="30.5%" alt="Commits per hour of day" />
+<img src="https://streak-stats.demolab.com?user=thatobabusi&theme=tokyonight&hide_border=true" width="61.5%" alt="Contribution streak" />
 
 <br/>
 
