@@ -1,0 +1,38 @@
+# Releases
+
+This repo versions the profile like a product: significant redesigns bump the
+major version, content refreshes bump the minor, small fixes bump the patch.
+
+## Publishing a release
+
+After pushing to `main`, tag and publish (this populates the `release` badge
+on the profile):
+
+```bash
+git tag -a v2.0.0 -m "Profile redesign v2.0.0"
+git push origin v2.0.0
+gh release create v2.0.0 --title "Profile v2.0.0" --notes-file docs/RELEASES.md
+```
+
+## Release history
+
+### v2.0.0 — 2026-07-09 (unreleased)
+
+Full visual and content redesign:
+
+- **New:** animated gradient banner + typing intro, wave footer
+- **New:** tech stack rendered with skillicons (brand-correct colors)
+- **New:** GitHub Stats section — themed badges, streak card, contribution
+  calendar, plus self-hosted metrics dashboard and contribution snake via
+  GitHub Actions
+- **New:** About Me code blocks pre-rendered as Tokyo Night SVG code cards
+  with syntax highlighting, window chrome, and a blinking cursor
+- **New:** `docs/` folder, MIT `LICENSE`, repo badges, quick-links row
+- **Changed:** articles and reading lists converted from bullet lists to
+  aligned tables; win12 added as the lead featured project
+- **Removed:** broken/unreliable third-party stats cards
+
+### v1.x — 2021 → 2026-07
+
+Original profile: summary, shields tech badges, collapsible About Me sections,
+articles, books, travel SVGs, featured projects table.

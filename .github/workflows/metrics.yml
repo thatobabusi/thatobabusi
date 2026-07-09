@@ -1,0 +1,44 @@
+name: Metrics
+
+on:
+  # Rebuild the dashboard daily at 04:00 UTC (06:00 SAST)
+  schedule:
+    - cron: "0 4 * * *"
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+  # Rebuild when the workflow itself changes
+  push:
+    branches: [main]
+    paths: [".github/workflows/metrics.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Falls back to the repo token; add a METRICS_TOKEN secret (classic PAT,
+          # no scopes needed for public data) if any plugin complains.
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          user: thatobabusi
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Africa/Johannesburg
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_colors: github
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_habits: yes
+          plugin_habits_days: 30
+          plugin_habits_charts: yes
+
+          output_action: commit
+          filename: github-metrics.svg
+          committer_message: "chore: update github-metrics.svg [skip ci]"

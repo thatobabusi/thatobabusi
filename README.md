@@ -12,6 +12,23 @@
 
 <img src="https://komarev.com/ghpvc/?username=thatobabusi&style=flat-square&color=2563eb" alt="Profile views" />
 
+<br/><br/>
+
+<a href="https://github.com/thatobabusi/thatobabusi/stargazers"><img src="https://img.shields.io/github/stars/thatobabusi/thatobabusi?style=flat-square&logo=github&labelColor=1a1b27&color=2563eb" alt="Repo stars" /></a>
+<a href="https://github.com/thatobabusi/thatobabusi/forks"><img src="https://img.shields.io/github/forks/thatobabusi/thatobabusi?style=flat-square&logo=github&labelColor=1a1b27&color=38bdf8" alt="Repo forks" /></a>
+<a href="https://github.com/thatobabusi/thatobabusi/watchers"><img src="https://img.shields.io/github/watchers/thatobabusi/thatobabusi?style=flat-square&logo=github&labelColor=1a1b27&color=1d4ed8" alt="Repo watchers" /></a>
+
+<a href="https://github.com/thatobabusi/thatobabusi/releases"><img src="https://img.shields.io/github/v/release/thatobabusi/thatobabusi?style=flat-square&logo=github&labelColor=1a1b27&color=8b5cf6" alt="Latest release" /></a>
+<a href="https://github.com/thatobabusi/thatobabusi/commits/main"><img src="https://img.shields.io/github/last-commit/thatobabusi/thatobabusi?style=flat-square&logo=git&logoColor=white&labelColor=1a1b27&color=22c55e" alt="Last commit" /></a>
+<a href="https://github.com/thatobabusi/thatobabusi/issues"><img src="https://img.shields.io/github/issues/thatobabusi/thatobabusi?style=flat-square&logo=github&labelColor=1a1b27&color=f97316" alt="Open issues" /></a>
+<a href="https://github.com/thatobabusi/thatobabusi/pulls"><img src="https://img.shields.io/github/issues-pr/thatobabusi/thatobabusi?style=flat-square&logo=github&labelColor=1a1b27&color=ec4899" alt="Open pull requests" /></a>
+<a href="LICENSE"><img src="https://img.shields.io/github/license/thatobabusi/thatobabusi?style=flat-square&labelColor=1a1b27&color=64748b" alt="License" /></a>
+<a href="https://github.com/thatobabusi/thatobabusi/graphs/contributors"><img src="https://img.shields.io/github/contributors/thatobabusi/thatobabusi?style=flat-square&logo=github&labelColor=1a1b27&color=14b8a6" alt="Contributors" /></a>
+
+<br/>
+
+**[🌍 Visit the Website](https://thatobabusi.co.za)** · **[📦 Releases](https://github.com/thatobabusi/thatobabusi/releases)** · **[📚 Docs](docs/README.md)**
+
 </div>
 
 <hr>
@@ -75,11 +92,19 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=thatobabusi&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=thatobabusi&theme=dark)](https://git.io/streak-stats)
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thatobabusi&theme=tokyo-night&hide_border=true&area=true" width="92%" alt="Contribution activity graph" />
+<img src="https://ghchart.rshah.org/2563eb/thatobabusi" width="92%" alt="Contribution calendar (last 12 months)" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/thatobabusi/thatobabusi/output/github-snake.svg" width="92%" alt="Snake eating my contribution graph" />
+
+<br/><br/>
+
+<img src="github-metrics.svg" width="92%" alt="GitHub metrics dashboard — languages, habits, isometric calendar" />
 
 </div>
 
