@@ -279,7 +279,7 @@ Collaboration::open()
 
 <h2 align="center"> 🛫  The Adventure So Far </h2>
 
-<img src="Thato-Read-me.svg" alt="Travel history map" />
+<img src="assets/Thato-Read-me.svg" alt="Travel history map" />
 
 </div>
 </details>
@@ -291,7 +291,7 @@ Collaboration::open()
 
 <h2 align="center"> ✈️ Dream Destinations</h2>
 
-<img src="Thato-Read-Me-Travel-Wishlist-Word-Cloud.svg" alt="Travel wishlist" />
+<img src="assets/Thato-Read-Me-Travel-Wishlist-Word-Cloud.svg" alt="Travel wishlist" />
 
 </div>
 </details>
