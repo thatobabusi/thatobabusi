@@ -12,6 +12,7 @@ _Last generated: 2026-07-09_
 
 ## July 2026
 
+- **2026-07-09** — Add README to every folder ([`90603ee`](https://github.com/thatobabusi/thatobabusi/commit/90603eebae7f02399aeaa51378b5f972fb1dad0d))
 - **2026-07-09** — Fix .gitignore: separate .idea/ and \_\_pycache\_\_/ entries ([`4a71de8`](https://github.com/thatobabusi/thatobabusi/commit/4a71de8876b5e3e7ddbfa1cc7a6c0e8fb95ef0b0))
 - **2026-07-09** — Ignore \_\_pycache\_\_ ([`e119811`](https://github.com/thatobabusi/thatobabusi/commit/e1198116e9542135dacf2dca4ae65f3c88668116))
 - **2026-07-09** — Add docs automation suite: link health, blog sync, project inventory, stats refresh, docs index, one-click release, code-card regen ([`f6bb99a`](https://github.com/thatobabusi/thatobabusi/commit/f6bb99a80160b847c313d48d6d674e5ffdde92d3))
