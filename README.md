@@ -27,7 +27,7 @@
 
 <br/>
 
-**[🌍 Visit the Website](https://thatobabusi.co.za)** · **[📦 Releases](https://github.com/thatobabusi/thatobabusi/releases)** · **[📚 Docs](docs/README.md)**
+**[🌍 Visit the Website](https://thatobabusi.co.za)** · **[📦 Releases](https://github.com/thatobabusi/thatobabusi/releases)** · **[📚 Docs](docs/README.md)** · **[📜 Changelog](docs/CHANGELOG.md)**
 
 </div>
 

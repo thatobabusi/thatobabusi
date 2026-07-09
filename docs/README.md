@@ -13,8 +13,11 @@ This repository powers the GitHub profile of [@thatobabusi](https://github.com/t
 | `scripts/generate_code_cards.py` | Generator for the themed code-card SVGs in `assets/` |
 | `.github/workflows/metrics.yml` | Daily job that builds `github-metrics.svg` (stats dashboard) |
 | `.github/workflows/snake.yml` | Twice-daily job that builds the contribution snake on the `output` branch |
+| `.github/workflows/changelog.yml` | Regenerates `docs/CHANGELOG.md` from git history on every push |
+| `scripts/generate_changelog.py` | The changelog generator (also runnable locally) |
 | `docs/` | This documentation |
-| `docs/RELEASES.md` | Versioning approach and release history |
+| `docs/RELEASES.md` | Versioning approach and curated release history |
+| `docs/CHANGELOG.md` | Auto-generated commit-by-commit changelog — do not edit by hand |
 
 ## Theme
 
