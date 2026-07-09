@@ -257,15 +257,16 @@ Collaboration::open()
 
 # 📚 Books I'm reading
 
-
--  [x] <img src="https://img.shields.io/badge/A Thousand Splendid Suns - Khaled Hosseini-black?style=flat-square&logoColor=white" alt="fiction"><br/>
--  [x] <img src="https://img.shields.io/badge/The Kite Runner - Khaled Hosseini-black?style=flat-square&logoColor=white" alt="fiction"><br/>
--  [x] <img src="https://img.shields.io/badge/I Am Malala - Malala Yousafzai & Christina Lamb-black?style=flat-square&logoColor=white" alt="fiction"><br/>
--  [x] <img src="https://img.shields.io/badge/White Ninja - Eric van Lustbader-black?style=flat-square&logoColor=white" alt="fiction"><br/>
--  [x] <img src="https://img.shields.io/badge/Black Blade - Eric van Lustbader-black?style=flat-square&logoColor=white" alt="fiction"><br/>
--  [x] <img src="https://img.shields.io/badge/Zero - Eric van Lustbader-black?style=flat-square&logoColor=white" alt="fiction"><br/>
--  [ ] <img src="https://img.shields.io/badge/The Jian - Eric van Lustbader-black?style=flat-square&logoColor=white" alt="fiction"><br/>
--  [ ] <img src="https://img.shields.io/badge/Good Strategy Bad Strategy: The Difference and Why It Matter - Richard P. Rumelt-black?style=flat-square&logoColor=white" alt="fiction"><br/>
+| 📕 Book | ✍️ Author | Status |
+|:--------|:----------|:------:|
+| A Thousand Splendid Suns | Khaled Hosseini | ✅ Finished |
+| The Kite Runner | Khaled Hosseini | ✅ Finished |
+| I Am Malala | Malala Yousafzai & Christina Lamb | ✅ Finished |
+| White Ninja | Eric van Lustbader | ✅ Finished |
+| Black Blade | Eric van Lustbader | ✅ Finished |
+| Zero | Eric van Lustbader | ✅ Finished |
+| The Jian | Eric van Lustbader | 📖 Reading |
+| Good Strategy Bad Strategy: The Difference and Why It Matters | Richard P. Rumelt | 📖 Reading |
 
 </div>
 </details>
