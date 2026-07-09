@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:38bdf8&height=180&section=header&text=Thato%20Babusi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Developer%20%7C%20Laravel%20Specialist%20%7C%20Founder%2C%20Babusi%20Group&descAlignY=55&descSize=16" alt="Thato Babusi banner" />
 
 <a href="https://github.com/thatobabusi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Building+scalable+digital+solutions+for+13%2B+years;African+Solutions+for+African+Challenges;Laravel+%E2%80%A2+APIs+%E2%80%A2+Self-Hosted+%E2%80%A2+AI-Augmented" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Building+scalable+digital+solutions+for+13%2B+years;African+Solutions+for+African+Challenges;Laravel+%E2%80%A2+APIs+%E2%80%A2+Self-Hosted+%E2%80%A2+Automation" alt="Typing intro" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=thatobabusi&style=flat-square&color=2563eb" alt="Profile views" />
@@ -28,7 +28,7 @@
 📺 Media and Advertising |
 🔬 Research <br/><br/>
 🛠️ I use daily: .**php**, .**blade**.php, .**laravel**, .**js**, .**html**, .**css**, .**mysql** <br/><br/>
-🌱 I'm currently: Building open-source products, and pairing AI-augmented workflows with battle-tested engineering.
+🌱 I'm currently: Building open-source products, and pairing automation workflows with battle-tested engineering.
 <br/> <br/>
 **🤝 Let's Connect**
 <br/><a href="https://github.com/thatobabusi" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@thatobabusi-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
@@ -109,7 +109,7 @@ Developer::currently()
         'Laravel packages & starter kits'
     ])
     ->upskilling([
-        'AI-augmented engineering workflows',
+        'automated engineering workflows',
         'Cloud infrastructure',
         'System design patterns'
     ])
@@ -172,7 +172,6 @@ Infrastructure::preferred()
 - **Performance:** Database optimization, caching strategies, query analysis
 - **Security:** Input validation, SQL injection prevention, secure authentication
 - **Maintainability:** Self-documenting code, comprehensive tests, clear documentation
-- **AI-Augmented:** Agentic tooling for velocity, human judgement for quality
 
 </div>
 
