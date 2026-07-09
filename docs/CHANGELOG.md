@@ -12,6 +12,7 @@ _Last generated: 2026-07-09_
 
 ## July 2026
 
+- **2026-07-09** — Add automated changelog generation (v2.1.0) ([`59f3c0a`](https://github.com/thatobabusi/thatobabusi/commit/59f3c0ac35521d8bad5b8654480c9aa31d649e28))
 - **2026-07-09** — Merge pull request #1 from thatobabusi/thatobabusi-patch-1 ([`e3bda4b`](https://github.com/thatobabusi/thatobabusi/commit/e3bda4b3078fbeda30c602fa4a0de5192118918f))
 - **2026-07-09** — Delete .idea directory ([`bd305f6`](https://github.com/thatobabusi/thatobabusi/commit/bd305f6faf3a2cbe4823a8a26c62ced9ba9a2f5f))
 - **2026-07-09** — Profile v2.0.0 ([`c06de4b`](https://github.com/thatobabusi/thatobabusi/commit/c06de4be1f5f3c3f31a1fa08940ca9722a4f38c3))
