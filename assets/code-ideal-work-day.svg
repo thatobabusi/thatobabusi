@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="286" viewBox="0 0 900 286" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace">
+<defs>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#1e3a8a"/>
+<stop offset="50%" stop-color="#2563eb"/>
+<stop offset="100%" stop-color="#38bdf8"/>
+</linearGradient>
+<clipPath id="card"><rect width="900" height="286" rx="12"/></clipPath>
+</defs>
+<rect width="900" height="286" rx="12" fill="#1a1b27"/>
+<g clip-path="url(#card)">
+<rect width="900" height="4" fill="url(#accent)"/>
+</g>
+<rect x="0.5" y="0.5" width="899" height="285" rx="12" fill="none" stroke="#2f334d"/>
+<circle cx="24" cy="24" r="6" fill="#f7768e"/>
+<circle cx="44" cy="24" r="6" fill="#e0af68"/>
+<circle cx="64" cy="24" r="6" fill="#9ece6a"/>
+<text x="450.0" y="29" text-anchor="middle" font-size="13" fill="#565f89">IdealWorkDay.php</text>
+<line x1="0" y1="44" x2="900" y2="44" stroke="#2f334d"/>
+<text x="46" y="80" text-anchor="end" font-size="14" fill="#3b4261">1</text>
+<text x="60" y="80" font-size="14" fill="#a9b1d6" xml:space="preserve"><tspan fill="#bb9af7">if</tspan><tspan fill="#a9b1d6">(</tspan><tspan fill="#7dcfff">Day</tspan><tspan fill="#89ddff">::</tspan><tspan fill="#7aa2f7">hasIdealWorkDay</tspan><tspan fill="#a9b1d6">(</tspan></text>
+<text x="46" y="102" text-anchor="end" font-size="14" fill="#3b4261">2</text>
+<text x="60" y="102" font-size="14" fill="#a9b1d6" xml:space="preserve">    <tspan fill="#7dcfff">IdealWorkDay</tspan><tspan fill="#89ddff">::</tspan><tspan fill="#7aa2f7">start</tspan><tspan fill="#a9b1d6">(</tspan><tspan fill="#a9b1d6">)</tspan></text>
+<text x="46" y="124" text-anchor="end" font-size="14" fill="#3b4261">3</text>
+<text x="60" y="124" font-size="14" fill="#a9b1d6" xml:space="preserve">        <tspan fill="#89ddff">-&gt;</tspan><tspan fill="#7aa2f7">remoteWork</tspan><tspan fill="#a9b1d6">(</tspan><tspan fill="#ff9e64">true</tspan><tspan fill="#a9b1d6">)</tspan></text>
+<text x="46" y="146" text-anchor="end" font-size="14" fill="#3b4261">4</text>
+<text x="60" y="146" font-size="14" fill="#a9b1d6" xml:space="preserve">        <tspan fill="#89ddff">-&gt;</tspan><tspan fill="#7aa2f7">coffee</tspan><tspan fill="#a9b1d6">(</tspan><tspan fill="#9ece6a">'dark'</tspan><tspan fill="#a9b1d6">,</tspan> <tspan fill="#9ece6a">'sweet'</tspan><tspan fill="#a9b1d6">)</tspan></text>
+<text x="46" y="168" text-anchor="end" font-size="14" fill="#3b4261">5</text>
+<text x="60" y="168" font-size="14" fill="#a9b1d6" xml:space="preserve">        <tspan fill="#89ddff">-&gt;</tspan><tspan fill="#7aa2f7">withMusic</tspan><tspan fill="#a9b1d6">(</tspan><tspan fill="#9ece6a">'Lo-Fi'</tspan><tspan fill="#a9b1d6">,</tspan> <tspan fill="#9ece6a">'Chillstep'</tspan><tspan fill="#a9b1d6">)</tspan></text>
+<text x="46" y="190" text-anchor="end" font-size="14" fill="#3b4261">6</text>
+<text x="60" y="190" font-size="14" fill="#a9b1d6" xml:space="preserve">        <tspan fill="#89ddff">-&gt;</tspan><tspan fill="#7aa2f7">withoutCalls</tspan><tspan fill="#a9b1d6">(</tspan><tspan fill="#a9b1d6">)</tspan></text>
+<text x="46" y="212" text-anchor="end" font-size="14" fill="#3b4261">7</text>
+<text x="60" y="212" font-size="14" fill="#a9b1d6" xml:space="preserve"><tspan fill="#a9b1d6">)</tspan><tspan fill="#a9b1d6">)</tspan> <tspan fill="#a9b1d6">{</tspan></text>
+<text x="46" y="234" text-anchor="end" font-size="14" fill="#3b4261">8</text>
+<text x="60" y="234" font-size="14" fill="#a9b1d6" xml:space="preserve">    <tspan fill="#bb9af7">return</tspan> <tspan fill="#7dcfff">ResponsesEnum</tspan><tspan fill="#89ddff">::</tspan><tspan fill="#ff9e64">PERFECT</tspan><tspan fill="#a9b1d6">;</tspan></text>
+<text x="46" y="256" text-anchor="end" font-size="14" fill="#3b4261">9</text>
+<text x="60" y="256" font-size="14" fill="#a9b1d6" xml:space="preserve"><tspan fill="#a9b1d6">}</tspan></text>
+<rect x="72" y="244" width="8" height="17" fill="#38bdf8"><animate attributeName="opacity" values="1;0;1" dur="1.4s" repeatCount="indefinite"/></rect>
+</svg>

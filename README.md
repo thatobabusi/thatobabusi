@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:38bdf8&height=180&section=header&text=Thato%20Babusi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Developer%20%7C%20Laravel%20Specialist%20%7C%20Founder%2C%20Babusi%20Holdings%20Group&descAlignY=55&descSize=16" alt="Thato Babusi banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:38bdf8&height=180&section=header&text=Thato%20Babusi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Developer%20%7C%20Laravel%20Specialist%20%7C%20Software%20Consultant&descAlignY=55&descSize=16" alt="Thato Babusi banner" />
 
 <a href="https://github.com/thatobabusi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Building+scalable+digital+solutions+for+13%2B+years;African+Solutions+for+African+Challenges;Laravel+%E2%80%A2+APIs+%E2%80%A2+Self-Hosted+%E2%80%A2+Automation" alt="Typing intro" />
@@ -71,21 +71,7 @@
 
 <h2 align="center"> ⚡I specialize in</h2>
 
-<div align="left">
-
-```php
-Developer::specializesIn()
-    ->apiDesign('RESTful', 'scalable architecture')
-    ->laravelEcosystem('packages', 'advanced patterns')
-    ->databaseOptimization('MySQL', 'MariaDB', 'performance tuning')
-    ->devOpsDeployment('Docker', 'Azure', 'CI/CD pipelines')
-    ->selfHostedSolutions('infrastructure', 'automation')
-    ->aiAugmentedEngineering('agentic workflows', 'human-led quality')
-    ->domainExpertise(['Real Estate', 'FinTech', 'Media', 'Aviation'])
-    ->systemModernization('legacy migration', 'maintainability')
-    ->codeQuality('security audits', 'performance analysis');
-```
-</div>
+<img src="assets/code-specialties.svg" alt="Developer::specializesIn() — API design, Laravel ecosystem, database optimization, DevOps, self-hosted solutions, AI-augmented engineering, domain expertise, system modernization, code quality" />
 
 </details>
 
@@ -94,29 +80,7 @@ Developer::specializesIn()
 
 <h2 align="center"> 😀 What's keeping me busy</h2>
 
-<div align="left">
-
-```php
-Developer::currently()
-    ->buildingApisFor('Enterprise solutions')
-    ->managingGroup('Babusi Holdings Group', [
-        'ThatoBabusiDev - Software Consulting',
-        'DigitalGardenMedia - Bespoke Digital Solutions',
-        'EdensFrequency - Music Production & Sound Design'
-    ])
-    ->shippingOpenSource([
-        'win12 - a Windows-style web desktop (PWA, i18n, themes)',
-        'Laravel packages & starter kits'
-    ])
-    ->upskilling([
-        'automated engineering workflows',
-        'Cloud infrastructure',
-        'System design patterns'
-    ])
-    ->seekingCollaboration('Digital professionals')
-    ->collaboratingWith('trusted developers in my network');
-```
-</div>
+<img src="assets/code-currently.svg" alt="Developer::currently() — building APIs, shipping open source (win12, Laravel packages), upskilling" />
 
 </details>
 
@@ -125,20 +89,7 @@ Developer::currently()
 
 <h2 align="center"> 💖 An Ideal Work Day</h2>
 
-<div align="left">
-
-```php
-if(Day::hasIdealWorkDay(
-    IdealWorkDay::start()
-        ->remoteWork(true)
-        ->coffee('dark', 'sweet')
-        ->withMusic('Lo-Fi', 'Chillstep')
-        ->withoutCalls()
-)) {
-    return ResponsesEnum::PERFECT;
-}
-```
-</div>
+<img src="assets/code-ideal-work-day.svg" alt="An ideal work day — remote work, dark sweet coffee, Lo-Fi and Chillstep music, no calls" />
 
 </details>
 
@@ -150,22 +101,10 @@ if(Day::hasIdealWorkDay(
 <div align="left">
 
 ### Daily Drivers
-```php
-Stack::daily()
-    ->languages(['PHP', 'JavaScript', 'Python', 'SQL'])
-    ->frameworks(['Laravel', 'Bootstrap', 'MySQL'])
-    ->tools(['Docker', 'Postman', 'Git', 'PHPStorm', 'WebStorm', 'Claude Code'])
-    ->databases(['MySQL', 'MariaDB', 'SQLite']);
-```
+<img src="assets/code-daily-drivers.svg" alt="Stack::daily() — PHP, JavaScript, Python, SQL; Laravel, Bootstrap; Docker, Postman, Git, PHPStorm, WebStorm, Claude Code; MySQL, MariaDB, SQLite" />
 
 ### Infrastructure & Deployment
-```php
-Infrastructure::preferred()
-    ->cloud('Azure', 'Docker containers')
-    ->deployment('CI/CD pipelines', 'automated testing')
-    ->local('Laravel Herd', 'Docker Compose')
-    ->monitoring('Laravel Telescope', 'custom dashboards');
-```
+<img src="assets/code-infrastructure.svg" alt="Infrastructure::preferred() — Azure, Docker, CI/CD pipelines, Laravel Herd, Laravel Telescope" />
 
 ### Development Philosophy
 - **Code Quality:** PSR-12 standards, clean architecture, SOLID principles
@@ -181,24 +120,7 @@ Infrastructure::preferred()
 <details>
   <summary><b>Let's work</b></summary>
 
-<div align="left">
-
-```php
-Services::available()
-    ->consulting('System Architecture', 'Technical Audits', 'Performance Analysis')
-    ->development('Custom Solutions', 'API Design', 'Full-Stack Applications')
-    ->modernization('Legacy System Migration', 'Code Quality Improvement', 'DevOps Integration')
-    ->codeReview('Security Audits', 'Performance Optimization', 'Best Practices')
-    ->mentorship('Laravel Ecosystem', 'System Design', 'Scalable Architecture');
-
-Collaboration::open()
-    ->for(['startups', 'agencies', 'enterprises'])
-    ->offering('flexible engagement', 'realistic timelines', 'transparent communication')
-    ->contactMe('Email: thatobabusiofficial@gmail.com')
-    ->schedule('LinkedIn or Website booking')
-    ->availability('Full-time, Part-time, Contract, Advisory');
-```
-</div>
+<img src="assets/code-services.svg" alt="Services::available() — consulting, development, modernization, code review, mentorship; Collaboration::open() — for startups, agencies, enterprises; contact via thatobabusi.co.za/contact" />
 
 </details>
 </div>
