@@ -235,12 +235,14 @@ Collaboration::open()
 
 **Latest:** Published on [thatobabusi.co.za/blog](https://thatobabusi.co.za/blog)
 
-- 📖 <a href="https://thatobabusi.co.za/blog/php-is-not-dead-dispelling-the-myths">PHP Is Not Dead: Dispelling The Myths</a>
-- 📖 <a href="https://thatobabusi.co.za/blog/how-to-combat-context-switching-for-maximum-developer-productivity">How To Combat Context Switching For Maximum Developer Productivity</a>
-- 📖 <a href="https://thatobabusi.co.za/blog/in-defense-of-the-repository-pattern">In Defense Of The Repository Pattern</a>
-- 📖 <a href="https://thatobabusi.co.za/blog/not-my-fault-still-my-problem-owning-outcomes-beyond-responsibility">Not My Fault, Still My Problem: Owning Outcomes Beyond Responsibility</a>
-- 📖 <a href="https://thatobabusi.co.za/blog/when-explanation-meets-perception-the-real-difference-between-reasons-and-excuses">When Explanation Meets Perception: The Real Difference Between Reasons and Excuses</a>
-- 📖 <a href="https://thatobabusi.co.za/blog/the-art-of-taking-an-l">The Art Of Taking An L</a>
+| 📖 Article | 🏷️ Topic |
+|:-----------|:--------:|
+| [PHP Is Not Dead: Dispelling The Myths](https://thatobabusi.co.za/blog/php-is-not-dead-dispelling-the-myths) | `PHP` |
+| [In Defense Of The Repository Pattern](https://thatobabusi.co.za/blog/in-defense-of-the-repository-pattern) | `Architecture` |
+| [How To Combat Context Switching For Maximum Developer Productivity](https://thatobabusi.co.za/blog/how-to-combat-context-switching-for-maximum-developer-productivity) | `Productivity` |
+| [Not My Fault, Still My Problem: Owning Outcomes Beyond Responsibility](https://thatobabusi.co.za/blog/not-my-fault-still-my-problem-owning-outcomes-beyond-responsibility) | `Mindset` |
+| [When Explanation Meets Perception: The Real Difference Between Reasons and Excuses](https://thatobabusi.co.za/blog/when-explanation-meets-perception-the-real-difference-between-reasons-and-excuses) | `Mindset` |
+| [The Art Of Taking An L](https://thatobabusi.co.za/blog/the-art-of-taking-an-l) | `Mindset` |
 
 **🔗 Subscribe:** [Blog RSS Feed](https://thatobabusi.co.za/blog)
 
