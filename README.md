@@ -61,6 +61,27 @@
 
 </div>
 
+
+<hr>
+
+<h2 align="center"> 📈 GitHub Stats </h2>
+
+<div align="center">
+
+<a href="https://github.com/thatobabusi?tab=followers"><img src="https://img.shields.io/github/followers/thatobabusi?style=for-the-badge&logo=github&color=2563eb&labelColor=1a1b27" alt="GitHub followers" /></a>
+&nbsp;
+<a href="https://github.com/thatobabusi?tab=repositories"><img src="https://img.shields.io/github/stars/thatobabusi?style=for-the-badge&logo=github&color=2563eb&labelColor=1a1b27" alt="GitHub stars" /></a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=thatobabusi&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thatobabusi&theme=tokyo-night&hide_border=true&area=true" width="92%" alt="Contribution activity graph" />
+
+</div>
+
 <hr>
 
 <div align="center">
@@ -345,27 +366,6 @@ I'm actively building software solutions and creating digital experiences that m
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/thato_babusi/ "Follow on Instagram")
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/2adzEHkhvtXVi151cNYMWr?si=b2e0912258194259 "My Spotify playlists")
-
-</div>
-
-
-<hr>
-
-<h2 align="center"> 📈 GitHub Stats </h2>
-
-<div align="center">
-
-<a href="https://github.com/thatobabusi?tab=followers"><img src="https://img.shields.io/github/followers/thatobabusi?style=for-the-badge&logo=github&color=2563eb&labelColor=1a1b27" alt="GitHub followers" /></a>
-&nbsp;
-<a href="https://github.com/thatobabusi?tab=repositories"><img src="https://img.shields.io/github/stars/thatobabusi?style=for-the-badge&logo=github&color=2563eb&labelColor=1a1b27" alt="GitHub stars" /></a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=thatobabusi&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thatobabusi&theme=tokyo-night&hide_border=true&area=true" width="92%" alt="Contribution activity graph" />
 
 </div>
 
