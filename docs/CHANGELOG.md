@@ -12,6 +12,7 @@ _Last generated: 2026-07-09_
 
 ## July 2026
 
+- **2026-07-09** — Ignore \_\_pycache\_\_ ([`e119811`](https://github.com/thatobabusi/thatobabusi/commit/e1198116e9542135dacf2dca4ae65f3c88668116))
 - **2026-07-09** — Add docs automation suite: link health, blog sync, project inventory, stats refresh, docs index, one-click release, code-card regen ([`f6bb99a`](https://github.com/thatobabusi/thatobabusi/commit/f6bb99a80160b847c313d48d6d674e5ffdde92d3))
 - **2026-07-09** — Add versioning documentation ([`8622983`](https://github.com/thatobabusi/thatobabusi/commit/86229836ca631bdd84f95d41fc731b3aee693163))
 - **2026-07-09** — Add automated changelog generation (v2.1.0) ([`59f3c0a`](https://github.com/thatobabusi/thatobabusi/commit/59f3c0ac35521d8bad5b8654480c9aa31d649e28))
