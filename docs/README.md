@@ -16,7 +16,8 @@ This repository powers the GitHub profile of [@thatobabusi](https://github.com/t
 | `.github/workflows/changelog.yml` | Regenerates `docs/CHANGELOG.md` from git history on every push |
 | `scripts/generate_changelog.py` | The changelog generator (also runnable locally) |
 | `docs/` | This documentation |
-| `docs/RELEASES.md` | Versioning approach and curated release history |
+| `docs/VERSIONING.md` | How the profile is versioned and how to cut a release |
+| `docs/RELEASES.md` | Curated release history |
 | `docs/CHANGELOG.md` | Auto-generated commit-by-commit changelog — do not edit by hand |
 
 ## Theme

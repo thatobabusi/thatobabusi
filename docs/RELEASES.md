@@ -1,18 +1,8 @@
 # Releases
 
-This repo versions the profile like a product: significant redesigns bump the
-major version, content refreshes bump the minor, small fixes bump the patch.
-
-## Publishing a release
-
-After pushing to `main`, tag and publish (this populates the `release` badge
-on the profile):
-
-```bash
-git tag -a v2.0.0 -m "Profile redesign v2.0.0"
-git push origin v2.0.0
-gh release create v2.0.0 --title "Profile v2.0.0" --notes-file docs/RELEASES.md
-```
+Curated release history. The versioning scheme and the step-by-step release
+process live in [VERSIONING.md](VERSIONING.md); the raw commit-by-commit
+record is auto-generated in [CHANGELOG.md](CHANGELOG.md).
 
 ## Release history
 
