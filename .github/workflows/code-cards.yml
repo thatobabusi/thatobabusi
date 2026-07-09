@@ -1,0 +1,34 @@
+name: Code Cards
+
+on:
+  # Regenerate whenever the generator (and its snippets) change
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate_code_cards.py"
+      - ".github/workflows/code-cards.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Regenerate SVG code cards
+        run: python3 scripts/generate_code_cards.py
+
+      - name: Commit if drifted
+        run: |
+          if git diff --quiet assets; then
+            echo "Code cards already in sync."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git commit -m "chore: regenerate code cards [skip ci]"
+          git push

@@ -1,0 +1,20 @@
+# Projects
+
+Public repositories of [@thatobabusi](https://github.com/thatobabusi), excluding forks,
+sorted by most recent push. Auto-generated daily by the
+[Docs Automation workflow](../.github/workflows/docs-automation.yml).
+
+**Last generated:** 2026-07-09 — 10 repositories
+
+| Repository | Description | Language | ⭐ | Last push |
+|:-----------|:------------|:---------|:--:|:----------|
+| [thatobabusi](https://github.com/thatobabusi/thatobabusi) | About Me | Python | 0 | 2026-07-09 |
+| [laravel-repository](https://github.com/thatobabusi/laravel-repository) | — | PHP | 0 | 2026-06-17 |
+| [laravel-13-cheat-sheet](https://github.com/thatobabusi/laravel-13-cheat-sheet) | Comprehensive Laravel 13 quick-reference — 34 sections, PHP 8.2+ | PHP | 0 | 2026-04-20 |
+| [digitalgarden_python_find_old_files](https://github.com/thatobabusi/digitalgarden_python_find_old_files) | Finds files older than a given time period and allows you to manage them. | Python | 0 | 2024-02-03 |
+| [digitalgarden_python_find_duplicate_files](https://github.com/thatobabusi/digitalgarden_python_find_duplicate_files) | A python command that finds and list all duplicate files in a given folder, allowing you to manage them. | Python | 0 | 2024-02-03 |
+| [php-vanilla-mvc](https://github.com/thatobabusi/php-vanilla-mvc) | — | PHP | 0 | 2022-02-14 |
+| [laravel-lastfm](https://github.com/thatobabusi/laravel-lastfm) | — | PHP | 0 | 2020-11-06 |
+| [laravel-customer-management-system](https://github.com/thatobabusi/laravel-customer-management-system) | Customer Management System in Laravel 5.5 | PHP | 0 | 2017-10-07 |
+| [laravel-demo](https://github.com/thatobabusi/laravel-demo) | — | PHP | 0 | 2016-10-17 |
+| [blog-bare-bones](https://github.com/thatobabusi/blog-bare-bones) | — | PHP | 0 | 2016-10-13 |

@@ -15,7 +15,9 @@ from pathlib import Path
 
 REPO_URL = "https://github.com/thatobabusi/thatobabusi"
 EXCLUDE_SUBJECTS = ("chore: update docs/CHANGELOG.md",
-                    "chore: update github-metrics.svg")
+                    "chore: update github-metrics.svg",
+                    "chore: refresh automated docs",
+                    "chore: regenerate code cards")
 
 MONTHS = ("January", "February", "March", "April", "May", "June", "July",
           "August", "September", "October", "November", "December")

@@ -1,0 +1,57 @@
+name: Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Version to release (X.Y.Z, no leading v)"
+        required: true
+      summary:
+        description: "One-line summary of this release"
+        required: true
+      notes:
+        description: "Optional markdown bullet points"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Validate version
+        run: |
+          V="${{ inputs.version }}"
+          [[ "$V" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]] || { echo "::error::Bad version '$V'"; exit 1; }
+          if git rev-parse "v$V" >/dev/null 2>&1; then
+            echo "::error::Tag v$V already exists"; exit 1
+          fi
+
+      - name: Update RELEASES.md
+        run: python3 scripts/prepare_release.py "${{ inputs.version }}" "${{ inputs.summary }}" "${{ inputs.notes }}"
+
+      - name: Commit, tag, publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          V="${{ inputs.version }}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/RELEASES.md
+          git commit -m "Release v$V"
+          git push
+          git tag -a "v$V" -m "Profile v$V - ${{ inputs.summary }}"
+          git push origin "v$V"
+          NOTES="${{ inputs.summary }}"
+          if [ -n "${{ inputs.notes }}" ]; then
+            NOTES="$NOTES
+
+          ${{ inputs.notes }}"
+          fi
+          gh release create "v$V" --title "Profile v$V" --notes "$NOTES"

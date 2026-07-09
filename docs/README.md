@@ -10,15 +10,26 @@ This repository powers the GitHub profile of [@thatobabusi](https://github.com/t
 |:-----|:--------|
 | `README.md` | The profile page itself |
 | `assets/` | Committed SVGs: code cards, travel map, travel wishlist |
-| `scripts/generate_code_cards.py` | Generator for the themed code-card SVGs in `assets/` |
+| `scripts/` | Generators and checkers behind the automation (all plain Python, no deps) |
 | `.github/workflows/metrics.yml` | Daily job that builds `github-metrics.svg` (stats dashboard) |
 | `.github/workflows/snake.yml` | Twice-daily job that builds the contribution snake on the `output` branch |
 | `.github/workflows/changelog.yml` | Regenerates `docs/CHANGELOG.md` from git history on every push |
-| `scripts/generate_changelog.py` | The changelog generator (also runnable locally) |
+| `.github/workflows/docs-automation.yml` | Daily: blog sync, project inventory, stats refresh, docs index, link health |
+| `.github/workflows/release.yml` | One-click release from the Actions tab (updates RELEASES.md, tags, publishes) |
+| `.github/workflows/code-cards.yml` | Regenerates the SVG code cards when the generator changes |
 | `docs/` | This documentation |
-| `docs/VERSIONING.md` | How the profile is versioned and how to cut a release |
-| `docs/RELEASES.md` | Curated release history |
-| `docs/CHANGELOG.md` | Auto-generated commit-by-commit changelog — do not edit by hand |
+
+## Documentation files
+
+<!-- DOCS-INDEX:START -->
+| File | Title |
+|:-----|:------|
+| [ARTICLES.md](ARTICLES.md) | Articles |
+| [CHANGELOG.md](CHANGELOG.md) | Changelog |
+| [PROJECTS.md](PROJECTS.md) | Projects |
+| [RELEASES.md](RELEASES.md) | Releases |
+| [VERSIONING.md](VERSIONING.md) | Versioning |
+<!-- DOCS-INDEX:END -->
 
 ## Theme
 
