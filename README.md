@@ -329,7 +329,7 @@ I'm actively building software solutions and creating digital experiences that m
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | The Quiet Divide: Navigating The Worlds Of Extroverts And Introverts](https://thatobabusi.co.za/blog-legacy-single/the-quiet-divide-navigating-the-worlds-of-extroverts-and-introverts) | `Blog` |
+| [thatobabusi.co.za | Boundaries](https://thatobabusi.co.za/blog-legacy-single/boundaries) | `Blog` |
 <!-- LATEST-POSTS:END -->
 
 **🔗 Subscribe:** [Blog RSS Feed](https://thatobabusi.co.za/blog)

@@ -4,12 +4,12 @@ Public repositories of [@thatobabusi](https://github.com/thatobabusi), excluding
 sorted by most recent push. Auto-generated daily by the
 [Docs Automation workflow](../.github/workflows/docs-automation.yml).
 
-**Last generated:** 2026-07-22 — 10 repositories
+**Last generated:** 2026-07-23 — 10 repositories
 
 | Repository | Description | Language | ⭐ | Last push |
 |:-----------|:------------|:---------|:--:|:----------|
-| [laravel-13-cheat-sheet](https://github.com/thatobabusi/laravel-13-cheat-sheet) | Comprehensive Laravel 13 quick-reference — 34 sections, PHP 8.2+ | JavaScript | 0 | 2026-07-22 |
-| [thatobabusi](https://github.com/thatobabusi/thatobabusi) | About Me | Python | 0 | 2026-07-22 |
+| [laravel-13-cheat-sheet](https://github.com/thatobabusi/laravel-13-cheat-sheet) | Comprehensive Laravel 13 quick-reference — 34 sections, PHP 8.2+ | JavaScript | 0 | 2026-07-23 |
+| [thatobabusi](https://github.com/thatobabusi/thatobabusi) | About Me | Python | 0 | 2026-07-23 |
 | [github-workflows](https://github.com/thatobabusi/github-workflows) | — | JavaScript | 0 | 2026-07-16 |
 | [laravel-lastfm](https://github.com/thatobabusi/laravel-lastfm) | Type-safe Last.fm API client for Laravel 7-13. Fluent interface with full type hints and dependency injection support. | PHP | 0 | 2026-07-12 |
 | [laravel-cloudways-deployment](https://github.com/thatobabusi/laravel-cloudways-deployment) | Deploy Laravel applications to Cloudways with ease. This package provides a complete deployment toolkit including multi-target deploy scripts, CI/CD workflows, health checks, database backups, GitFlow branching, upload syncing, and Artisan command wrappers. | Shell | 0 | 2026-07-12 |
