@@ -10,11 +10,10 @@ auto-synced daily by the [Docs Automation workflow](../.github/workflows/docs-au
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | Boundaries](https://thatobabusi.co.za/blog-legacy-single/boundaries) | `Blog` |
-| [thatobabusi.co.za | The Quiet Divide: Navigating The Worlds Of Extroverts And Introverts](https://thatobabusi.co.za/blog-legacy-single/the-quiet-divide-navigating-the-worlds-of-extroverts-and-introverts) | `Blog` |
-| [thatobabusi.co.za | Never Date Anyone That Has More Problems Than You](https://thatobabusi.co.za/blog-legacy-single/never-date-anyone-that-has-more-problems-than-you) | `Blog` |
-| [thatobabusi.co.za | What Are Bugs](https://thatobabusi.co.za/blog-legacy-single/what-are-bugs) | `Blog` |
-| [thatobabusi.co.za | The Path Of Vengeance: A Review Of &#039;Zero&#039;](https://thatobabusi.co.za/blog-legacy-single/the-path-of-vengeance-a-review-of-zero) | `Review` |
-| [thatobabusi.co.za | Space Force Review: The Workplace Comedy That Somehow Turned Into A Real Government Department](https://thatobabusi.co.za/blog-legacy-single/space-force-review-the-workplace-comedy-that-somehow-turned-into-a-real-government-department) | `Review` |
+| [thatobabusi.co.za | Co-Signing On Social Credit](https://thatobabusi.co.za/blog-legacy-single/cosigning-on-social-credit) | `Blog` |
 | [thatobabusi.co.za | The Shadows We Carry: A Review Of &#039;The Ninja&#039;](https://thatobabusi.co.za/blog-legacy-single/the-shadows-we-carry-a-review-of-the-ninja) | `Review` |
-| [thatobabusi.co.za | The Shadows Of Empire And The Soul Of A City: A Review Of &#039;Black Blade&#039;](https://thatobabusi.co.za/blog-legacy-single/the-shadows-of-empire-and-the-soul-of-a-city-a-review-of-black-blade) | `Review` |
+| [thatobabusi.co.za | The Astronaut (2025): Space Horror, Isolation And The Fear Of Bringing Something Back Home](https://thatobabusi.co.za/blog-legacy-single/the-astronaut-2025-space-horror-isolation-and-the-fear-of-bringing-something-back-home) | `Blog` |
+| [thatobabusi.co.za | Don’t Look Up: The Movie We Weren’t Supposed To Ignore](https://thatobabusi.co.za/blog-legacy-single/dont-look-up-the-movie-we-werent-supposed-to-ignore) | `Review` |
+| [thatobabusi.co.za | The Gorge (2025): The Movie That Quietly Tricks You Into Thinking It Is One Thing Before Becoming Something Much Bigger](https://thatobabusi.co.za/blog-legacy-single/the-gorge-2025-the-movie-that-quietly-tricks-you-into-thinking-it-is-one-thing-before-becoming-something-much-bigger) | `Review` |
+| [thatobabusi.co.za | Star Trek: Strange New Worlds Review](https://thatobabusi.co.za/blog-legacy-single/star-trek-strange-new-worlds-review) | `Review` |
+| [thatobabusi.co.za | Find Your Tribe](https://thatobabusi.co.za/blog-legacy-single/find-your-tribe) | `Blog` |
