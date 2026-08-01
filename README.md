@@ -286,7 +286,7 @@ I'm actively building software solutions and creating digital experiences that m
 | Metric | Value |
 |--------|-------|
 | ⭐ Experience | 13+ years systems development across 5 industries |
-| 📦 Public Repos | 25 on GitHub |
+| 📦 Public Repos | 26 on GitHub |
 | 👥 GitHub Followers | 22 |
 | 📝 Published Articles | 11 articles on [thatobabusi.co.za](https://thatobabusi.co.za/blog) |
 | 💻 Active Projects | 10+ (win12, IPTV, Full-Stack Upskilling, +7 more) |
