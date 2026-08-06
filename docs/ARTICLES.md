@@ -10,9 +10,10 @@ auto-synced daily by the [Docs Automation workflow](../.github/workflows/docs-au
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | Perspective Matters](https://thatobabusi.co.za/blog-legacy-single/perspective-matters) | `Blog` |
-| [thatobabusi.co.za | Never Date Anyone That Has More Problems Than You](https://thatobabusi.co.za/blog-legacy-single/never-date-anyone-that-has-more-problems-than-you) | `Blog` |
-| [thatobabusi.co.za | Co-Signing On Social Credit](https://thatobabusi.co.za/blog-legacy-single/cosigning-on-social-credit) | `Blog` |
-| [thatobabusi.co.za | F Is For Family Review: The Animated Series That Quietly Became One Of Netflix&#039;s Most Underrated Shows](https://thatobabusi.co.za/blog-legacy-single/f-is-for-family-review-the-animated-series-that-quietly-became-one-of-netflixs-most-underrated-shows) | `Review` |
-| [thatobabusi.co.za | Star Trek: Strange New Worlds Review](https://thatobabusi.co.za/blog-legacy-single/star-trek-strange-new-worlds-review) | `Review` |
-| [thatobabusi.co.za | Delivery Run (2025): What Should Have Been A Simple Shift Turns Into A Nightmare](https://thatobabusi.co.za/blog-legacy-single/delivery-run-2025-what-should-have-been-a-simple-shift-turns-into-a-nightmare) | `Blog` |
+| [thatobabusi.co.za | In Defense Of The Repository Pattern](https://thatobabusi.co.za/blog-legacy-single/in-defense-of-the-repository-pattern) | `Architecture` |
+| [thatobabusi.co.za | Deception By Design: Why “Finesse” Fails The Legal Test](https://thatobabusi.co.za/blog-legacy-single/deception-by-design-why-finesse-fails-the-legal-test) | `Blog` |
+| [thatobabusi.co.za | Hijack (2023) Review](https://thatobabusi.co.za/blog-legacy-single/hijack-2023-review) | `Review` |
+| [thatobabusi.co.za | Don’t Look Up: The Movie We Weren’t Supposed To Ignore](https://thatobabusi.co.za/blog-legacy-single/dont-look-up-the-movie-we-werent-supposed-to-ignore) | `Review` |
+| [thatobabusi.co.za | The Art Of Taking An L](https://thatobabusi.co.za/blog-legacy-single/the-art-of-taking-an-l) | `Blog` |
+| [thatobabusi.co.za | What Are Bugs](https://thatobabusi.co.za/blog-legacy-single/what-are-bugs) | `Blog` |
+| [thatobabusi.co.za | Distress Signals (2022): A Survival Story That Quietly Hits Harder Than You Expect](https://thatobabusi.co.za/blog-legacy-single/distress-signals-2022-a-survival-story-that-quietly-hits-harder-than-you-expect) | `Blog` |
