@@ -4,12 +4,12 @@ Public repositories of [@thatobabusi](https://github.com/thatobabusi), excluding
 sorted by most recent push. Auto-generated daily by the
 [Docs Automation workflow](../.github/workflows/docs-automation.yml).
 
-**Last generated:** 2026-08-09 — 11 repositories
+**Last generated:** 2026-08-10 — 11 repositories
 
 | Repository | Description | Language | ⭐ | Last push |
 |:-----------|:------------|:---------|:--:|:----------|
-| [laravel-13-cheat-sheet](https://github.com/thatobabusi/laravel-13-cheat-sheet) | Comprehensive Laravel 13 quick-reference — 34 sections, PHP 8.2+ | JavaScript | 1 | 2026-08-09 |
-| [thatobabusi](https://github.com/thatobabusi/thatobabusi) | About Me | Python | 1 | 2026-08-09 |
+| [laravel-13-cheat-sheet](https://github.com/thatobabusi/laravel-13-cheat-sheet) | Comprehensive Laravel 13 quick-reference — 34 sections, PHP 8.2+ | JavaScript | 1 | 2026-08-10 |
+| [thatobabusi](https://github.com/thatobabusi/thatobabusi) | About Me | Python | 1 | 2026-08-10 |
 | [mission-control-os](https://github.com/thatobabusi/mission-control-os) | Public version of private repo: Mission Control | — | 0 | 2026-07-31 |
 | [github-workflows](https://github.com/thatobabusi/github-workflows) | A comprehensive, unified set of standards, templates, and best practices for all thatobabusi projects. | JavaScript | 1 | 2026-07-28 |
 | [laravel-lastfm](https://github.com/thatobabusi/laravel-lastfm) | Type-safe Last.fm API client for Laravel 7-13. Fluent interface with full type hints and dependency injection support. | PHP | 0 | 2026-07-24 |
