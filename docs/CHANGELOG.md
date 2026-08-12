@@ -10,6 +10,12 @@ All notable changes to this profile, straight from the commit history.
 _Last generated: 2026-08-12_
 
 
+## August 2026
+
+- **2026-08-12** — Merge branch 'main' of https://github.com/thatobabusi/thatobabusi ([`b526659`](https://github.com/thatobabusi/thatobabusi/commit/b526659933f2fe88e7cd279619f7bbdcf18b4ef1))
+- **2026-08-12** — Feature the Boom Bap Producer VST3 plugins, fix fork-exclusion bug, add more charts ([`0b4c1a3`](https://github.com/thatobabusi/thatobabusi/commit/0b4c1a385739d59c44c064c1b347f054f8f4314d))
+
+
 ## July 2026
 
 - **2026-07-09** — Add README to every folder ([`90603ee`](https://github.com/thatobabusi/thatobabusi/commit/90603eebae7f02399aeaa51378b5f972fb1dad0d))
