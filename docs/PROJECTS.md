@@ -9,8 +9,8 @@ in the generator), sorted by most recent push. Auto-generated daily by the
 
 | Repository | Description | Language | ⭐ | Last push |
 |:-----------|:------------|:---------|:--:|:----------|
+| [laravel-13-cheat-sheet](https://github.com/thatobabusi/laravel-13-cheat-sheet) | Comprehensive Laravel 13 quick-reference — 34 sections, PHP 8.2+ | JavaScript | 1 | 2026-08-12 |
 | [thatobabusi](https://github.com/thatobabusi/thatobabusi) | About Me | Python | 1 | 2026-08-12 |
-| [laravel-13-cheat-sheet](https://github.com/thatobabusi/laravel-13-cheat-sheet) | Comprehensive Laravel 13 quick-reference — 34 sections, PHP 8.2+ | JavaScript | 1 | 2026-08-11 |
 | [boom-bap-producer-pads-public](https://github.com/thatobabusi/boom-bap-producer-pads-public) | A pad-grid sampler/sequencer instrument for VST3 hosts (Reason, FL Studio, Ableton Live, Logic Pro — Windows first). | — | 1 | 2026-08-10 |
 | [boom-bap-producer-decks-public](https://github.com/thatobabusi/boom-bap-producer-decks-public) | A dual-deck DJ mixer/scratch instrument for VST3 hosts, also available as a standalone app with no DAW required. | — | 0 | 2026-08-09 |
 | [adminlte-laravel](https://github.com/thatobabusi/adminlte-laravel) | Official AdminLTE 4 integration for Laravel — Bootstrap 5.3, vanilla JS, Vite-ready. | Blade | 0 | 2026-08-03 |
