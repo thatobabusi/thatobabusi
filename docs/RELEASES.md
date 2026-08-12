@@ -6,6 +6,15 @@ record is auto-generated in [CHANGELOG.md](CHANGELOG.md).
 
 ## Release history
 
+### v2.2.0 — 2026-08-12
+
+Feature the Boom Bap Producer VST3 plugins, fix a fork-exclusion bug, and add more charts to the stats dashboard.
+
+- **Fixed:**  was silently excluding win12, both Boom Bap Producer VST3 plugins, adminlte-laravel, laravel-installer, win12-locales, iseed, and php-vanilla-oop-login from the project inventory — GitHub flags them  even though they're substantially original work. Added an  allowlist.
+- **New:** Featured Projects now leads with Boom Bap Producer — Pads and Boom Bap Producer — Decks (VST3 audio plugins, real GitHub repos with releases)
+- **New:** Overall-stats card and a top-languages donut chart alongside the existing streak/calendar/snake/metrics dashboard
+- **New:**  and  added to the lowlighter/metrics dashboard for more chart variety
+
 ### v2.1.0 — 2026-07-09
 
 Automated changelog:
