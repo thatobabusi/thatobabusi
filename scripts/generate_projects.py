@@ -2,7 +2,17 @@
 
 Usage:  python scripts/generate_projects.py
 Uses GITHUB_TOKEN from the environment when present (CI); anonymous otherwise.
-Forks are excluded; repos sorted by last push.
+Forks are excluded by default; repos sorted by last push.
+
+GitHub's `fork` flag is ancestry, not content — a repo started from a
+template or upstream scaffold stays flagged `fork: true` forever even
+after it's been rebuilt into an original product (e.g. win12 grew from a
+web-desktop template; the boom-bap-producer-*-public repos share a common
+public-repo scaffold across the product family). Blanket-excluding forks
+silently drops genuinely original, actively-maintained work. INCLUDE_FORKS
+below is the manual allowlist for exactly that case — same pattern as
+MANUAL_ROWS in update_stats.py. Leave off anything that really is just a
+kept-current mirror of someone else's project (those stay excluded).
 """
 
 import json
@@ -14,6 +24,17 @@ from _common import ROOT, UA
 
 USER = "thatobabusi"
 DOC = ROOT / "docs" / "PROJECTS.md"
+
+INCLUDE_FORKS = {
+    "win12",
+    "win12-locales",
+    "boom-bap-producer-pads-public",
+    "boom-bap-producer-decks-public",
+    "adminlte-laravel",
+    "laravel-installer",
+    "iseed",
+    "php-vanilla-oop-login",
+}
 
 
 def api(url: str):
@@ -28,13 +49,14 @@ def api(url: str):
 
 def main() -> None:
     repos = api(f"https://api.github.com/users/{USER}/repos?per_page=100&sort=pushed")
-    repos = [r for r in repos if not r["fork"]]
+    repos = [r for r in repos if not r["fork"] or r["name"] in INCLUDE_FORKS]
 
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     lines = ["# Projects",
              "",
-             f"Public repositories of [@{USER}](https://github.com/{USER}), excluding forks,",
-             "sorted by most recent push. Auto-generated daily by the",
+             f"Public repositories of [@{USER}](https://github.com/{USER})",
+             "(originals, plus a few substantially-rebuilt forks — see `INCLUDE_FORKS`",
+             "in the generator), sorted by most recent push. Auto-generated daily by the",
              "[Docs Automation workflow](../.github/workflows/docs-automation.yml).",
              "",
              f"**Last generated:** {now} — {len(repos)} repositories",

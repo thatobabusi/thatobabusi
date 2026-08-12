@@ -7,7 +7,7 @@ All notable changes to this profile, straight from the commit history.
 > For curated release notes see [RELEASES.md](RELEASES.md).
 
 
-_Last generated: 2026-07-09_
+_Last generated: 2026-08-12_
 
 
 ## July 2026

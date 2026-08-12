@@ -20,8 +20,9 @@ README = ROOT / "README.md"
 ARTICLES = ROOT / "docs" / "ARTICLES.md"
 
 MANUAL_ROWS = [
-    ("💻 Active Projects", "10+ (win12, IPTV, Full-Stack Upskilling, +7 more)"),
-    ("📊 Portfolio Projects", "9 public/notable projects showcased"),
+    ("💻 Active Projects",
+     "12+ (Boom Bap Producer VST3 plugin suite, win12, IPTV, Full-Stack Upskilling, +8 more)"),
+    ("📊 Portfolio Projects", "11 public/notable projects showcased"),
     ("🌍 Industries Served",
      "Aviation & Auditing, Transport & Logistics, HRM, Media, Research"),
     ("🏆 BBBEE Status", "Level 1 - 100% Black-owned"),

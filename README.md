@@ -96,6 +96,18 @@
 
 <br/>
 
+<!-- github-readme-stats: the official github-readme-stats.vercel.app shared
+     instance is frequently paused (DEPLOYMENT_PAUSED) since it's a free-tier
+     Vercel deployment under heavy load — this points at a community mirror
+     instead. If both badges below go 404/blank, check_links.py's daily run
+     will open a GitHub issue; swap the host in these two src= URLs for
+     another mirror from https://github.com/anuraghazra/github-readme-stats#-deploy-on-your-own
+     (or self-host) and re-run scripts/check_links.py to confirm. -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thatobabusi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Overall GitHub stats" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thatobabusi&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages" height="165" />
+
+<br/><br/>
+
 <img src="https://ghchart.rshah.org/2563eb/thatobabusi" width="92%" alt="Contribution calendar (last 12 months)" />
 
 <br/><br/>
@@ -117,6 +129,22 @@
 ### Public & Notable Projects
 
 <table align="center">
+  <tr>
+    <td align="center" width="45%">
+      <h3>🎹 <a href="https://github.com/thatobabusi/boom-bap-producer-pads-public" target="_blank">Boom Bap Producer — Pads</a></h3>
+      <p>A pad-grid sampler/sequencer VST3 instrument (Reason, FL Studio, Ableton Live, Logic Pro), also a standalone app. 16-pad trigger grid, step sequencer, stem separation, piano roll, and MIDI import/export — no DAW required.</p>
+      <p><strong>Stack:</strong> C++, JUCE, VST3</p>
+    </td>
+    <td align="center" width="5%"></td>
+    <td align="center" width="45%">
+      <h3>🎧 <a href="https://github.com/thatobabusi/boom-bap-producer-decks-public" target="_blank">Boom Bap Producer — Decks</a></h3>
+      <p>A dual-deck DJ mixer/scratch VST3 instrument with a velocity-modeled scratch engine, 3-band EQ, filter/reverb sends, Loop/Stutter performance FX, and full MIDI Learn — also a standalone app, no DAW required.</p>
+      <p><strong>Stack:</strong> C++, JUCE, VST3</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" height="20"></td>
+  </tr>
   <tr>
     <td align="center" width="45%">
       <h3>🖥️ <a href="https://github.com/thatobabusi/win12" target="_blank">win12 — Web Desktop</a></h3>
@@ -289,8 +317,8 @@ I'm actively building software solutions and creating digital experiences that m
 | 📦 Public Repos | 28 on GitHub |
 | 👥 GitHub Followers | 23 |
 | 📝 Published Articles | 13 articles on [thatobabusi.co.za](https://thatobabusi.co.za/blog) |
-| 💻 Active Projects | 10+ (win12, IPTV, Full-Stack Upskilling, +7 more) |
-| 📊 Portfolio Projects | 9 public/notable projects showcased |
+| 💻 Active Projects | 12+ (Boom Bap Producer VST3 plugin suite, win12, IPTV, Full-Stack Upskilling, +8 more) |
+| 📊 Portfolio Projects | 11 public/notable projects showcased |
 | 🌍 Industries Served | Aviation & Auditing, Transport & Logistics, HRM, Media, Research |
 | 🏆 BBBEE Status | Level 1 - 100% Black-owned |
 | 🛠️ Tech Stack | 14+ technologies (PHP, Laravel, Python, Docker, Azure, +10 more) |
@@ -329,7 +357,7 @@ I'm actively building software solutions and creating digital experiences that m
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | The Quiet Divide: Navigating The Worlds Of Extroverts And Introverts](https://thatobabusi.co.za/blog-legacy-single/the-quiet-divide-navigating-the-worlds-of-extroverts-and-introverts) | `Blog` |
+| [thatobabusi.co.za | Perspective Matters](https://thatobabusi.co.za/blog-legacy-single/perspective-matters) | `Blog` |
 <!-- LATEST-POSTS:END -->
 
 **🔗 Subscribe:** [Blog RSS Feed](https://thatobabusi.co.za/blog)
