@@ -39,19 +39,27 @@ jobs:
       - name: Commit, tag, publish
         env:
           GH_TOKEN: ${{ github.token }}
+          # Passed as env vars, not interpolated into the script body --
+          # ${{ inputs.summary }}/${{ inputs.notes }} can contain backticks
+          # or $(...), which bash would otherwise execute as command
+          # substitution when GitHub Actions splices them directly into
+          # the run: text (this bit v2.2.0's release, see RELEASES.md).
+          VERSION: ${{ inputs.version }}
+          SUMMARY: ${{ inputs.summary }}
+          NOTES_INPUT: ${{ inputs.notes }}
         run: |
-          V="${{ inputs.version }}"
+          V="$VERSION"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/RELEASES.md
           git commit -m "Release v$V"
           git push
-          git tag -a "v$V" -m "Profile v$V - ${{ inputs.summary }}"
+          git tag -a "v$V" -m "Profile v$V - $SUMMARY"
           git push origin "v$V"
-          NOTES="${{ inputs.summary }}"
-          if [ -n "${{ inputs.notes }}" ]; then
+          NOTES="$SUMMARY"
+          if [ -n "$NOTES_INPUT" ]; then
             NOTES="$NOTES
 
-          ${{ inputs.notes }}"
+          $NOTES_INPUT"
           fi
           gh release create "v$V" --title "Profile v$V" --notes "$NOTES"
