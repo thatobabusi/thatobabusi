@@ -12,6 +12,8 @@ _Last generated: 2026-08-12_
 
 ## August 2026
 
+- **2026-08-12** — Fix release.yml: pass inputs.summary/notes as env vars, not inline ([`5e9f635`](https://github.com/thatobabusi/thatobabusi/commit/5e9f635c84f66030bd3daa85663363f2b884aaf3))
+- **2026-08-12** — Release v2.2.0 ([`489df9c`](https://github.com/thatobabusi/thatobabusi/commit/489df9c594061c8d14b3109fddec85d32ee5c89a))
 - **2026-08-12** — Merge branch 'main' of https://github.com/thatobabusi/thatobabusi ([`b526659`](https://github.com/thatobabusi/thatobabusi/commit/b526659933f2fe88e7cd279619f7bbdcf18b4ef1))
 - **2026-08-12** — Feature the Boom Bap Producer VST3 plugins, fix fork-exclusion bug, add more charts ([`0b4c1a3`](https://github.com/thatobabusi/thatobabusi/commit/0b4c1a385739d59c44c064c1b347f054f8f4314d))
 
