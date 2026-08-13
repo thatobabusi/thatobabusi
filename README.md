@@ -314,7 +314,7 @@ I'm actively building software solutions and creating digital experiences that m
 | Metric | Value |
 |--------|-------|
 | ⭐ Experience | 13+ years systems development across 5 industries |
-| 📦 Public Repos | 28 on GitHub |
+| 📦 Public Repos | 29 on GitHub |
 | 👥 GitHub Followers | 23 |
 | 📝 Published Articles | 13 articles on [thatobabusi.co.za](https://thatobabusi.co.za/blog) |
 | 💻 Active Projects | 12+ (Boom Bap Producer VST3 plugin suite, win12, IPTV, Full-Stack Upskilling, +8 more) |
