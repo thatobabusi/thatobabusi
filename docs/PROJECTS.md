@@ -5,12 +5,12 @@ Public repositories of [@thatobabusi](https://github.com/thatobabusi)
 in the generator), sorted by most recent push. Auto-generated daily by the
 [Docs Automation workflow](../.github/workflows/docs-automation.yml).
 
-**Last generated:** 2026-08-16 — 18 repositories
+**Last generated:** 2026-08-17 — 18 repositories
 
 | Repository | Description | Language | ⭐ | Last push |
 |:-----------|:------------|:---------|:--:|:----------|
-| [laravel-13-cheat-sheet](https://github.com/thatobabusi/laravel-13-cheat-sheet) | Comprehensive Laravel 13 quick-reference — 34 sections, PHP 8.2+ | JavaScript | 1 | 2026-08-16 |
-| [thatobabusi](https://github.com/thatobabusi/thatobabusi) | About Me | Python | 1 | 2026-08-16 |
+| [laravel-13-cheat-sheet](https://github.com/thatobabusi/laravel-13-cheat-sheet) | Comprehensive Laravel 13 quick-reference — 34 sections, PHP 8.2+ | JavaScript | 1 | 2026-08-17 |
+| [thatobabusi](https://github.com/thatobabusi/thatobabusi) | About Me | Python | 1 | 2026-08-17 |
 | [boom-bap-producer-decks-public](https://github.com/thatobabusi/boom-bap-producer-decks-public) | A dual-deck DJ mixer/scratch instrument for VST3 hosts, also available as a standalone app with no DAW required. | — | 1 | 2026-08-12 |
 | [boom-bap-producer-pads-public](https://github.com/thatobabusi/boom-bap-producer-pads-public) | A pad-grid sampler/sequencer instrument for VST3 hosts (Reason, FL Studio, Ableton Live, Logic Pro — Windows first). | — | 1 | 2026-08-12 |
 | [mission-control-os](https://github.com/thatobabusi/mission-control-os) | Public version of private repo: Mission Control | — | 0 | 2026-07-31 |
