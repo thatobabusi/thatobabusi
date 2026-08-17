@@ -316,7 +316,7 @@ I'm actively building software solutions and creating digital experiences that m
 | ⭐ Experience | 13+ years systems development across 5 industries |
 | 📦 Public Repos | 87 on GitHub |
 | 👥 GitHub Followers | 23 |
-| 📝 Published Articles | 12 articles on [thatobabusi.co.za](https://thatobabusi.co.za/blog) |
+| 📝 Published Articles | 13 articles on [thatobabusi.co.za](https://thatobabusi.co.za/blog) |
 | 💻 Active Projects | 12+ (Boom Bap Producer VST3 plugin suite, win12, IPTV, Full-Stack Upskilling, +8 more) |
 | 📊 Portfolio Projects | 11 public/notable projects showcased |
 | 🌍 Industries Served | Aviation & Auditing, Transport & Logistics, HRM, Media, Research |
@@ -357,7 +357,7 @@ I'm actively building software solutions and creating digital experiences that m
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | Don’t Look Up: The Movie We Weren’t Supposed To Ignore](https://thatobabusi.co.za/blog-legacy-single/dont-look-up-the-movie-we-werent-supposed-to-ignore) | `Review` |
+| [thatobabusi.co.za | The Astronaut (2025): Space Horror, Isolation And The Fear Of Bringing Something Back Home](https://thatobabusi.co.za/blog-legacy-single/the-astronaut-2025-space-horror-isolation-and-the-fear-of-bringing-something-back-home) | `Blog` |
 <!-- LATEST-POSTS:END -->
 
 **🔗 Subscribe:** [Blog RSS Feed](https://thatobabusi.co.za/blog)
