@@ -16,7 +16,7 @@ jobs:
   regenerate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Regenerate SVG code cards
         run: python3 scripts/generate_code_cards.py
