@@ -314,7 +314,7 @@ I'm actively building software solutions and creating digital experiences that m
 | Metric | Value |
 |--------|-------|
 | ⭐ Experience | 13+ years systems development across 5 industries |
-| 📦 Public Repos | 22 on GitHub |
+| 📦 Public Repos | 23 on GitHub |
 | 👥 GitHub Followers | 24 |
 | 📝 Published Articles | 12 articles on [thatobabusi.co.za](https://thatobabusi.co.za/blog) |
 | 💻 Active Projects | 12+ (Boom Bap Producer VST3 plugin suite, win12, IPTV, Full-Stack Upskilling, +8 more) |
@@ -357,7 +357,7 @@ I'm actively building software solutions and creating digital experiences that m
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | Don’t Look Up: The Movie We Weren’t Supposed To Ignore](https://thatobabusi.co.za/blog-legacy-single/dont-look-up-the-movie-we-werent-supposed-to-ignore) | `Review` |
+| [thatobabusi.co.za | Livestream (2025): The Internet Watches Everything... Except When It Matters Most](https://thatobabusi.co.za/blog-legacy-single/livestream-2025-the-internet-watches-everything-except-when-it-matters-most) | `Blog` |
 <!-- LATEST-POSTS:END -->
 
 **🔗 Subscribe:** [Blog RSS Feed](https://thatobabusi.co.za/blog)
