@@ -315,8 +315,8 @@ I'm actively building software solutions and creating digital experiences that m
 |--------|-------|
 | ⭐ Experience | 13+ years systems development across 5 industries |
 | 📦 Public Repos | 21 on GitHub |
-| 👥 GitHub Followers | 23 |
-| 📝 Published Articles | 11 articles on [thatobabusi.co.za](https://thatobabusi.co.za/blog) |
+| 👥 GitHub Followers | 22 |
+| 📝 Published Articles | 12 articles on [thatobabusi.co.za](https://thatobabusi.co.za/blog) |
 | 💻 Active Projects | 12+ (Boom Bap Producer VST3 plugin suite, win12, IPTV, Full-Stack Upskilling, +8 more) |
 | 📊 Portfolio Projects | 11 public/notable projects showcased |
 | 🌍 Industries Served | Aviation & Auditing, Transport & Logistics, HRM, Media, Research |
@@ -357,7 +357,7 @@ I'm actively building software solutions and creating digital experiences that m
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | I Used To Write](https://thatobabusi.co.za/blog-legacy-single/i-used-to-write) | `Blog` |
+| [thatobabusi.co.za | When The Sea Is Too Rough To Sail, Repair The Nets: A Software Developer&#039;s Perspective](https://thatobabusi.co.za/blog-legacy-single/when-the-sea-is-too-rough-to-sail-repair-the-nets-a-software-developers-perspective) | `Dev Life` |
 <!-- LATEST-POSTS:END -->
 
 **🔗 Subscribe:** [Blog RSS Feed](https://thatobabusi.co.za/blog)
