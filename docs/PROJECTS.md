@@ -5,12 +5,12 @@ Public repositories of [@thatobabusi](https://github.com/thatobabusi)
 in the generator), sorted by most recent push. Auto-generated daily by the
 [Docs Automation workflow](../.github/workflows/docs-automation.yml).
 
-**Last generated:** 2026-09-04 — 18 repositories
+**Last generated:** 2026-09-05 — 18 repositories
 
 | Repository | Description | Language | ⭐ | Last push |
 |:-----------|:------------|:---------|:--:|:----------|
-| [laravel-13-cheat-sheet](https://github.com/thatobabusi/laravel-13-cheat-sheet) | Comprehensive Laravel 13 quick-reference — 34 sections, PHP 8.2+ | JavaScript | 2 | 2026-09-04 |
-| [thatobabusi](https://github.com/thatobabusi/thatobabusi) | About Me | Python | 1 | 2026-09-04 |
+| [laravel-13-cheat-sheet](https://github.com/thatobabusi/laravel-13-cheat-sheet) | Comprehensive Laravel 13 quick-reference — 34 sections, PHP 8.2+ | JavaScript | 2 | 2026-09-05 |
+| [thatobabusi](https://github.com/thatobabusi/thatobabusi) | About Me | Python | 1 | 2026-09-05 |
 | [boom-bap-producer-pads-public](https://github.com/thatobabusi/boom-bap-producer-pads-public) | A pad-grid sampler/sequencer instrument for VST3 hosts (Reason, FL Studio, Ableton Live, Logic Pro — Windows first). | HTML | 1 | 2026-09-03 |
 | [github-workflows](https://github.com/thatobabusi/github-workflows) | A comprehensive, unified set of standards, templates, and best practices for all thatobabusi projects. | JavaScript | 1 | 2026-08-17 |
 | [laravel-installer](https://github.com/thatobabusi/laravel-installer) | The Laravel application installer. | PHP | 0 | 2026-08-17 |

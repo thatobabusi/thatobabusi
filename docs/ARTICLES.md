@@ -10,11 +10,11 @@ auto-synced daily by the [Docs Automation workflow](../.github/workflows/docs-au
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | Deception By Design: Why “Finesse” Fails The Legal Test](https://thatobabusi.co.za/blog-legacy-single/deception-by-design-why-finesse-fails-the-legal-test) | `Blog` |
-| [thatobabusi.co.za | Lord Of The Flies (2026): A New Generation Enters One Of Literature&#039;s Most Uncomfortable Questions](https://thatobabusi.co.za/blog-legacy-single/lord-of-the-flies-2026-a-new-generation-enters-one-of-literatures-most-uncomfortable-questions) | `Blog` |
-| [thatobabusi.co.za | A Tapestry Of Resilience: A Review Of &#039;A Thousand Splendid Suns&#039;](https://thatobabusi.co.za/blog-legacy-single/a-tapestry-of-resilience-a-review-of-a-thousand-splendid-suns) | `Review` |
+| [thatobabusi.co.za | Co-Signing On Social Credit](https://thatobabusi.co.za/blog-legacy-single/cosigning-on-social-credit) | `Blog` |
+| [thatobabusi.co.za | The Rise Of Podcasts: A New Wave Of Culture And Conversation](https://thatobabusi.co.za/blog-legacy-single/the-rise-of-podcasts-a-new-wave-of-culture-and-conversation) | `Blog` |
+| [thatobabusi.co.za | Braai Ettiqutte](https://thatobabusi.co.za/blog-legacy-single/braai-ettiqutte) | `Blog` |
+| [thatobabusi.co.za | The Art Of Taking An L](https://thatobabusi.co.za/blog-legacy-single/the-art-of-taking-an-l) | `Blog` |
+| [thatobabusi.co.za | When The Sea Is Too Rough To Sail, Repair The Nets: A Software Developer&#039;s Perspective](https://thatobabusi.co.za/blog-legacy-single/when-the-sea-is-too-rough-to-sail-repair-the-nets-a-software-developers-perspective) | `Dev Life` |
+| [thatobabusi.co.za | The Shadows Of Corporate Power: A Review Of &#039;The White Ninja&#039;](https://thatobabusi.co.za/blog-legacy-single/the-shadows-of-corporate-power-a-review-of-the-white-ninja) | `Review` |
 | [thatobabusi.co.za | Find Your Tribe](https://thatobabusi.co.za/blog-legacy-single/find-your-tribe) | `Blog` |
-| [thatobabusi.co.za | Star Trek: Starfleet Academy (2026) Review](https://thatobabusi.co.za/blog-legacy-single/star-trek-starfleet-academy-2026-review) | `Review` |
-| [thatobabusi.co.za | Never Date Anyone That Has More Problems Than You](https://thatobabusi.co.za/blog-legacy-single/never-date-anyone-that-has-more-problems-than-you) | `Blog` |
-| [thatobabusi.co.za | Perspective Matters](https://thatobabusi.co.za/blog-legacy-single/perspective-matters) | `Blog` |
-| [thatobabusi.co.za | Disclaimer](https://thatobabusi.co.za/blog-legacy-single/disclaimer) | `Blog` |
+| [thatobabusi.co.za | Delivery Run (2025): What Should Have Been A Simple Shift Turns Into A Nightmare](https://thatobabusi.co.za/blog-legacy-single/delivery-run-2025-what-should-have-been-a-simple-shift-turns-into-a-nightmare) | `Blog` |
