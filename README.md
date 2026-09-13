@@ -357,7 +357,7 @@ I'm actively building software solutions and creating digital experiences that m
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | Space Force Review: The Workplace Comedy That Somehow Turned Into A Real Government Department](https://thatobabusi.co.za/blog-legacy-single/space-force-review-the-workplace-comedy-that-somehow-turned-into-a-real-government-department) | `Review` |
+| [thatobabusi.co.za | Lord Of The Flies (2026): A New Generation Enters One Of Literature&#039;s Most Uncomfortable Questions](https://thatobabusi.co.za/blog-legacy-single/lord-of-the-flies-2026-a-new-generation-enters-one-of-literatures-most-uncomfortable-questions) | `Blog` |
 <!-- LATEST-POSTS:END -->
 
 **🔗 Subscribe:** [Blog RSS Feed](https://thatobabusi.co.za/blog)
