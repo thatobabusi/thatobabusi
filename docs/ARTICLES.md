@@ -10,11 +10,11 @@ auto-synced daily by the [Docs Automation workflow](../.github/workflows/docs-au
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | Lord Of The Flies (2026): A New Generation Enters One Of Literature&#039;s Most Uncomfortable Questions](https://thatobabusi.co.za/blog-legacy-single/lord-of-the-flies-2026-a-new-generation-enters-one-of-literatures-most-uncomfortable-questions) | `Blog` |
-| [thatobabusi.co.za | Co-Signing On Social Credit](https://thatobabusi.co.za/blog-legacy-single/cosigning-on-social-credit) | `Blog` |
-| [thatobabusi.co.za | F Is For Family Review: The Animated Series That Quietly Became One Of Netflix&#039;s Most Underrated Shows](https://thatobabusi.co.za/blog-legacy-single/f-is-for-family-review-the-animated-series-that-quietly-became-one-of-netflixs-most-underrated-shows) | `Review` |
-| [thatobabusi.co.za | The Shadows Of Empire And The Soul Of A City: A Review Of &#039;Black Blade&#039;](https://thatobabusi.co.za/blog-legacy-single/the-shadows-of-empire-and-the-soul-of-a-city-a-review-of-black-blade) | `Review` |
 | [thatobabusi.co.za | Hijack (2023) Review](https://thatobabusi.co.za/blog-legacy-single/hijack-2023-review) | `Review` |
-| [thatobabusi.co.za | My Little Candle](https://thatobabusi.co.za/blog-legacy-single/my-little-candle) | `Blog` |
-| [thatobabusi.co.za | Delivery Run (2025): What Should Have Been A Simple Shift Turns Into A Nightmare](https://thatobabusi.co.za/blog-legacy-single/delivery-run-2025-what-should-have-been-a-simple-shift-turns-into-a-nightmare) | `Blog` |
+| [thatobabusi.co.za | Never Date Anyone That Has More Problems Than You](https://thatobabusi.co.za/blog-legacy-single/never-date-anyone-that-has-more-problems-than-you) | `Blog` |
+| [thatobabusi.co.za | What Are Bugs](https://thatobabusi.co.za/blog-legacy-single/what-are-bugs) | `Blog` |
+| [thatobabusi.co.za | The Invention Of Lying – Movie Review](https://thatobabusi.co.za/blog-legacy-single/the-invention-of-lying-movie-review) | `Review` |
+| [thatobabusi.co.za | The Rise Of Podcasts: A New Wave Of Culture And Conversation](https://thatobabusi.co.za/blog-legacy-single/the-rise-of-podcasts-a-new-wave-of-culture-and-conversation) | `Blog` |
 | [thatobabusi.co.za | Don’t Look Up: The Movie We Weren’t Supposed To Ignore](https://thatobabusi.co.za/blog-legacy-single/dont-look-up-the-movie-we-werent-supposed-to-ignore) | `Review` |
+| [thatobabusi.co.za | How To Report System Bugs](https://thatobabusi.co.za/blog-legacy-single/how-to-report-system-bugs) | `Blog` |
+| [thatobabusi.co.za | The Orville Review: The Show That Started As &quot;Family Guy In Space&quot; And Quietly Became Something Much Better](https://thatobabusi.co.za/blog-legacy-single/the-orville-review-the-show-that-started-as-family-guy-in-space-and-quietly-became-something-much-better) | `Review` |
