@@ -10,9 +10,10 @@ auto-synced daily by the [Docs Automation workflow](../.github/workflows/docs-au
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
+| [thatobabusi.co.za | The Anatomy Of A Misunderstanding: Noise](https://thatobabusi.co.za/blog-legacy-single/the-anatomy-of-a-misunderstanding-noise) | `Blog` |
+| [thatobabusi.co.za | Distress Signals (2022): A Survival Story That Quietly Hits Harder Than You Expect](https://thatobabusi.co.za/blog-legacy-single/distress-signals-2022-a-survival-story-that-quietly-hits-harder-than-you-expect) | `Blog` |
+| [thatobabusi.co.za | Perspective Matters](https://thatobabusi.co.za/blog-legacy-single/perspective-matters) | `Blog` |
+| [thatobabusi.co.za | Quicksand (2023): When Survival Forces You To Stop Running From Everything](https://thatobabusi.co.za/blog-legacy-single/quicksand-2023-when-survival-forces-you-to-stop-running-from-everything) | `Blog` |
 | [thatobabusi.co.za | What Are Bugs](https://thatobabusi.co.za/blog-legacy-single/what-are-bugs) | `Blog` |
-| [thatobabusi.co.za | The Shadows Of Corporate Power: A Review Of &#039;The White Ninja&#039;](https://thatobabusi.co.za/blog-legacy-single/the-shadows-of-corporate-power-a-review-of-the-white-ninja) | `Review` |
-| [thatobabusi.co.za | The Other (2025): The Horror Of Bringing The Past Home](https://thatobabusi.co.za/blog-legacy-single/the-other-2025-the-horror-of-bringing-the-past-home) | `Blog` |
-| [thatobabusi.co.za | Boundaries](https://thatobabusi.co.za/blog-legacy-single/boundaries) | `Blog` |
-| [thatobabusi.co.za | When Goodness Looks Suspicious: What Distrust Reveals About Us](https://thatobabusi.co.za/blog-legacy-single/when-goodness-looks-suspicious-what-distrust-reveals-about-us) | `Blog` |
-| [thatobabusi.co.za | Not Everything Requires Fixing](https://thatobabusi.co.za/blog-legacy-single/not-everything-requires-fixing) | `Blog` |
+| [thatobabusi.co.za | In Defense Of The Repository Pattern](https://thatobabusi.co.za/blog-legacy-single/in-defense-of-the-repository-pattern) | `Architecture` |
+| [thatobabusi.co.za | Never Date Anyone That Has More Problems Than You](https://thatobabusi.co.za/blog-legacy-single/never-date-anyone-that-has-more-problems-than-you) | `Blog` |
