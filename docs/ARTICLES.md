@@ -10,10 +10,11 @@ auto-synced daily by the [Docs Automation workflow](../.github/workflows/docs-au
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | The Quiet Divide: Navigating The Worlds Of Extroverts And Introverts](https://thatobabusi.co.za/blog-legacy-single/the-quiet-divide-navigating-the-worlds-of-extroverts-and-introverts) | `Blog` |
-| [thatobabusi.co.za | Never Date Anyone That Has More Problems Than You](https://thatobabusi.co.za/blog-legacy-single/never-date-anyone-that-has-more-problems-than-you) | `Blog` |
-| [thatobabusi.co.za | Perspective Matters](https://thatobabusi.co.za/blog-legacy-single/perspective-matters) | `Blog` |
+| [thatobabusi.co.za | Black Mirror Review: The Show That Made Everyone Side-Eye Their Own Phone](https://thatobabusi.co.za/blog-legacy-single/black-mirror-review-the-show-that-made-everyone-sideeye-their-own-phone) | `Review` |
+| [thatobabusi.co.za | How To Report System Bugs](https://thatobabusi.co.za/blog-legacy-single/how-to-report-system-bugs) | `Blog` |
 | [thatobabusi.co.za | Space Force Review: The Workplace Comedy That Somehow Turned Into A Real Government Department](https://thatobabusi.co.za/blog-legacy-single/space-force-review-the-workplace-comedy-that-somehow-turned-into-a-real-government-department) | `Review` |
-| [thatobabusi.co.za | What Are Bugs](https://thatobabusi.co.za/blog-legacy-single/what-are-bugs) | `Blog` |
-| [thatobabusi.co.za | Co-Signing On Social Credit](https://thatobabusi.co.za/blog-legacy-single/cosigning-on-social-credit) | `Blog` |
-| [thatobabusi.co.za | Deception By Design: Why “Finesse” Fails The Legal Test](https://thatobabusi.co.za/blog-legacy-single/deception-by-design-why-finesse-fails-the-legal-test) | `Blog` |
+| [thatobabusi.co.za | The Other (2025): The Horror Of Bringing The Past Home](https://thatobabusi.co.za/blog-legacy-single/the-other-2025-the-horror-of-bringing-the-past-home) | `Blog` |
+| [thatobabusi.co.za | Quicksand (2023): When Survival Forces You To Stop Running From Everything](https://thatobabusi.co.za/blog-legacy-single/quicksand-2023-when-survival-forces-you-to-stop-running-from-everything) | `Blog` |
+| [thatobabusi.co.za | The Shadows Of Corporate Power: A Review Of &#039;The White Ninja&#039;](https://thatobabusi.co.za/blog-legacy-single/the-shadows-of-corporate-power-a-review-of-the-white-ninja) | `Review` |
+| [thatobabusi.co.za | The Quiet Divide: Navigating The Worlds Of Extroverts And Introverts](https://thatobabusi.co.za/blog-legacy-single/the-quiet-divide-navigating-the-worlds-of-extroverts-and-introverts) | `Blog` |
+| [thatobabusi.co.za | Delivery Run (2025): What Should Have Been A Simple Shift Turns Into A Nightmare](https://thatobabusi.co.za/blog-legacy-single/delivery-run-2025-what-should-have-been-a-simple-shift-turns-into-a-nightmare) | `Blog` |
