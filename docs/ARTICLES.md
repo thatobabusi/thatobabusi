@@ -11,10 +11,10 @@ auto-synced daily by the [Docs Automation workflow](../.github/workflows/docs-au
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
 | [thatobabusi.co.za | Not Everything Requires Fixing](https://thatobabusi.co.za/blog-legacy-single/not-everything-requires-fixing) | `Blog` |
-| [thatobabusi.co.za | Disclaimer](https://thatobabusi.co.za/blog-legacy-single/disclaimer) | `Blog` |
-| [thatobabusi.co.za | Mandy (2019): Proof That Confidence Can Carry You Further Than Common Sense Ever Could](https://thatobabusi.co.za/blog-legacy-single/mandy-2019-proof-that-confidence-can-carry-you-further-than-common-sense-ever-could) | `Blog` |
-| [thatobabusi.co.za | Php Is Not Dead: Dispelling The Myths](https://thatobabusi.co.za/blog-legacy-single/php-is-not-dead-dispelling-the-myths) | `PHP` |
-| [thatobabusi.co.za | Space Force Review: The Workplace Comedy That Somehow Turned Into A Real Government Department](https://thatobabusi.co.za/blog-legacy-single/space-force-review-the-workplace-comedy-that-somehow-turned-into-a-real-government-department) | `Review` |
-| [thatobabusi.co.za | The Rise Of Podcasts: A New Wave Of Culture And Conversation](https://thatobabusi.co.za/blog-legacy-single/the-rise-of-podcasts-a-new-wave-of-culture-and-conversation) | `Blog` |
-| [thatobabusi.co.za | The Astronaut (2025): Space Horror, Isolation And The Fear Of Bringing Something Back Home](https://thatobabusi.co.za/blog-legacy-single/the-astronaut-2025-space-horror-isolation-and-the-fear-of-bringing-something-back-home) | `Blog` |
-| [thatobabusi.co.za | Deception By Design: Why “Finesse” Fails The Legal Test](https://thatobabusi.co.za/blog-legacy-single/deception-by-design-why-finesse-fails-the-legal-test) | `Blog` |
+| [thatobabusi.co.za | The Invention Of Lying – Movie Review](https://thatobabusi.co.za/blog-legacy-single/the-invention-of-lying-movie-review) | `Review` |
+| [thatobabusi.co.za | A Tapestry Of Resilience: A Review Of &#039;A Thousand Splendid Suns&#039;](https://thatobabusi.co.za/blog-legacy-single/a-tapestry-of-resilience-a-review-of-a-thousand-splendid-suns) | `Review` |
+| [thatobabusi.co.za | F Is For Family Review: The Animated Series That Quietly Became One Of Netflix&#039;s Most Underrated Shows](https://thatobabusi.co.za/blog-legacy-single/f-is-for-family-review-the-animated-series-that-quietly-became-one-of-netflixs-most-underrated-shows) | `Review` |
+| [thatobabusi.co.za | Never Date Anyone That Has More Problems Than You](https://thatobabusi.co.za/blog-legacy-single/never-date-anyone-that-has-more-problems-than-you) | `Blog` |
+| [thatobabusi.co.za | The Shadows Of Corporate Power: A Review Of &#039;The White Ninja&#039;](https://thatobabusi.co.za/blog-legacy-single/the-shadows-of-corporate-power-a-review-of-the-white-ninja) | `Review` |
+| [thatobabusi.co.za | Star Trek: Strange New Worlds Review](https://thatobabusi.co.za/blog-legacy-single/star-trek-strange-new-worlds-review) | `Review` |
+| [thatobabusi.co.za | Boundaries](https://thatobabusi.co.za/blog-legacy-single/boundaries) | `Blog` |
