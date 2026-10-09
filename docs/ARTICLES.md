@@ -10,10 +10,11 @@ auto-synced daily by the [Docs Automation workflow](../.github/workflows/docs-au
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | Star Trek: Starfleet Academy (2026) Review](https://thatobabusi.co.za/blog-legacy-single/star-trek-starfleet-academy-2026-review) | `Review` |
-| [thatobabusi.co.za | Livestream (2025): The Internet Watches Everything... Except When It Matters Most](https://thatobabusi.co.za/blog-legacy-single/livestream-2025-the-internet-watches-everything-except-when-it-matters-most) | `Blog` |
-| [thatobabusi.co.za | The Quiet Divide: Navigating The Worlds Of Extroverts And Introverts](https://thatobabusi.co.za/blog-legacy-single/the-quiet-divide-navigating-the-worlds-of-extroverts-and-introverts) | `Blog` |
-| [thatobabusi.co.za | Space Force Review: The Workplace Comedy That Somehow Turned Into A Real Government Department](https://thatobabusi.co.za/blog-legacy-single/space-force-review-the-workplace-comedy-that-somehow-turned-into-a-real-government-department) | `Review` |
-| [thatobabusi.co.za | Troubleshooting The Unknown: A Developer’s Reality](https://thatobabusi.co.za/blog-legacy-single/troubleshooting-the-unknown-a-developers-reality) | `Dev Life` |
+| [thatobabusi.co.za | What Are Bugs](https://thatobabusi.co.za/blog-legacy-single/what-are-bugs) | `Blog` |
+| [thatobabusi.co.za | The Anatomy Of A Misunderstanding: Noise](https://thatobabusi.co.za/blog-legacy-single/the-anatomy-of-a-misunderstanding-noise) | `Blog` |
+| [thatobabusi.co.za | The Other (2025): The Horror Of Bringing The Past Home](https://thatobabusi.co.za/blog-legacy-single/the-other-2025-the-horror-of-bringing-the-past-home) | `Blog` |
+| [thatobabusi.co.za | The Echo Of A Kite: A Review Of &#039;The Kite Runner&#039;](https://thatobabusi.co.za/blog-legacy-single/the-echo-of-a-kite-a-review-of-the-kite-runner) | `Review` |
+| [thatobabusi.co.za | A Tapestry Of Resilience: A Review Of &#039;A Thousand Splendid Suns&#039;](https://thatobabusi.co.za/blog-legacy-single/a-tapestry-of-resilience-a-review-of-a-thousand-splendid-suns) | `Review` |
+| [thatobabusi.co.za | The Shadows Of Corporate Power: A Review Of &#039;The White Ninja&#039;](https://thatobabusi.co.za/blog-legacy-single/the-shadows-of-corporate-power-a-review-of-the-white-ninja) | `Review` |
+| [thatobabusi.co.za | Perspective Matters](https://thatobabusi.co.za/blog-legacy-single/perspective-matters) | `Blog` |
 | [thatobabusi.co.za | My Little Candle](https://thatobabusi.co.za/blog-legacy-single/my-little-candle) | `Blog` |
-| [thatobabusi.co.za | Lord Of The Flies (2026): A New Generation Enters One Of Literature&#039;s Most Uncomfortable Questions](https://thatobabusi.co.za/blog-legacy-single/lord-of-the-flies-2026-a-new-generation-enters-one-of-literatures-most-uncomfortable-questions) | `Blog` |
