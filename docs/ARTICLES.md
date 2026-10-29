@@ -10,10 +10,10 @@ auto-synced daily by the [Docs Automation workflow](../.github/workflows/docs-au
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | How To Combat Context Switching For Maximum Developer Productivity](https://thatobabusi.co.za/blog-legacy-single/how-to-combat-context-switching-for-maximum-developer-productivity) | `Productivity` |
-| [thatobabusi.co.za | My Little Candle](https://thatobabusi.co.za/blog-legacy-single/my-little-candle) | `Blog` |
-| [thatobabusi.co.za | F Is For Family Review: The Animated Series That Quietly Became One Of Netflix&#039;s Most Underrated Shows](https://thatobabusi.co.za/blog-legacy-single/f-is-for-family-review-the-animated-series-that-quietly-became-one-of-netflixs-most-underrated-shows) | `Review` |
-| [thatobabusi.co.za | Find Your Tribe](https://thatobabusi.co.za/blog-legacy-single/find-your-tribe) | `Blog` |
-| [thatobabusi.co.za | A Tapestry Of Resilience: A Review Of &#039;A Thousand Splendid Suns&#039;](https://thatobabusi.co.za/blog-legacy-single/a-tapestry-of-resilience-a-review-of-a-thousand-splendid-suns) | `Review` |
-| [thatobabusi.co.za | The Other (2025): The Horror Of Bringing The Past Home](https://thatobabusi.co.za/blog-legacy-single/the-other-2025-the-horror-of-bringing-the-past-home) | `Blog` |
-| [thatobabusi.co.za | In Defense Of The Repository Pattern](https://thatobabusi.co.za/blog-legacy-single/in-defense-of-the-repository-pattern) | `Architecture` |
+| [thatobabusi.co.za | Co-Signing On Social Credit](https://thatobabusi.co.za/blog-legacy-single/cosigning-on-social-credit) | `Blog` |
+| [thatobabusi.co.za | Not My Fault, Still My Problem: Owning Outcomes Beyond Responsibility](https://thatobabusi.co.za/blog-legacy-single/not-my-fault-still-my-problem-owning-outcomes-beyond-responsibility) | `Blog` |
+| [thatobabusi.co.za | The Shadows Of Corporate Power: A Review Of &#039;The White Ninja&#039;](https://thatobabusi.co.za/blog-legacy-single/the-shadows-of-corporate-power-a-review-of-the-white-ninja) | `Review` |
+| [thatobabusi.co.za | When Goodness Looks Suspicious: What Distrust Reveals About Us](https://thatobabusi.co.za/blog-legacy-single/when-goodness-looks-suspicious-what-distrust-reveals-about-us) | `Blog` |
+| [thatobabusi.co.za | Perspective Matters](https://thatobabusi.co.za/blog-legacy-single/perspective-matters) | `Blog` |
+| [thatobabusi.co.za | Braai Ettiqutte](https://thatobabusi.co.za/blog-legacy-single/braai-ettiqutte) | `Blog` |
+| [thatobabusi.co.za | The Path Of Vengeance: A Review Of &#039;Zero&#039;](https://thatobabusi.co.za/blog-legacy-single/the-path-of-vengeance-a-review-of-zero) | `Review` |
