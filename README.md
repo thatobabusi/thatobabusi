@@ -357,7 +357,7 @@ I'm actively building software solutions and creating digital experiences that m
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | Never Date Anyone That Has More Problems Than You](https://thatobabusi.co.za/blog-legacy-single/never-date-anyone-that-has-more-problems-than-you) | `Blog` |
+| [thatobabusi.co.za | How To Report System Bugs](https://thatobabusi.co.za/blog-legacy-single/how-to-report-system-bugs) | `Blog` |
 <!-- LATEST-POSTS:END -->
 
 **🔗 Subscribe:** [Blog RSS Feed](https://thatobabusi.co.za/blog)
