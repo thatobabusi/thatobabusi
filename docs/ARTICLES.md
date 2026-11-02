@@ -10,11 +10,10 @@ auto-synced daily by the [Docs Automation workflow](../.github/workflows/docs-au
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | How To Report System Bugs](https://thatobabusi.co.za/blog-legacy-single/how-to-report-system-bugs) | `Blog` |
-| [thatobabusi.co.za | Php Is Not Dead: Dispelling The Myths](https://thatobabusi.co.za/blog-legacy-single/php-is-not-dead-dispelling-the-myths) | `PHP` |
-| [thatobabusi.co.za | The Path Of Vengeance: A Review Of &#039;Zero&#039;](https://thatobabusi.co.za/blog-legacy-single/the-path-of-vengeance-a-review-of-zero) | `Review` |
-| [thatobabusi.co.za | The Quiet Divide: Navigating The Worlds Of Extroverts And Introverts](https://thatobabusi.co.za/blog-legacy-single/the-quiet-divide-navigating-the-worlds-of-extroverts-and-introverts) | `Blog` |
-| [thatobabusi.co.za | The Anatomy Of A Misunderstanding: Noise](https://thatobabusi.co.za/blog-legacy-single/the-anatomy-of-a-misunderstanding-noise) | `Blog` |
-| [thatobabusi.co.za | In Defense Of The Repository Pattern](https://thatobabusi.co.za/blog-legacy-single/in-defense-of-the-repository-pattern) | `Architecture` |
-| [thatobabusi.co.za | Hijack (2023) Review](https://thatobabusi.co.za/blog-legacy-single/hijack-2023-review) | `Review` |
-| [thatobabusi.co.za | Deception By Design: Why “Finesse” Fails The Legal Test](https://thatobabusi.co.za/blog-legacy-single/deception-by-design-why-finesse-fails-the-legal-test) | `Blog` |
+| [thatobabusi.co.za | Lord Of The Flies (2026): A New Generation Enters One Of Literature&#039;s Most Uncomfortable Questions](https://thatobabusi.co.za/blog-legacy-single/lord-of-the-flies-2026-a-new-generation-enters-one-of-literatures-most-uncomfortable-questions) | `Blog` |
+| [thatobabusi.co.za | When Explanation Meets Perception: The Real Difference Between Reasons And Excuses](https://thatobabusi.co.za/blog-legacy-single/when-explanation-meets-perception-the-real-difference-between-reasons-and-excuses) | `Blog` |
+| [thatobabusi.co.za | The Shadows Of Empire And The Soul Of A City: A Review Of &#039;Black Blade&#039;](https://thatobabusi.co.za/blog-legacy-single/the-shadows-of-empire-and-the-soul-of-a-city-a-review-of-black-blade) | `Review` |
+| [thatobabusi.co.za | Delivery Run (2025): What Should Have Been A Simple Shift Turns Into A Nightmare](https://thatobabusi.co.za/blog-legacy-single/delivery-run-2025-what-should-have-been-a-simple-shift-turns-into-a-nightmare) | `Blog` |
+| [thatobabusi.co.za | My Little Candle](https://thatobabusi.co.za/blog-legacy-single/my-little-candle) | `Blog` |
+| [thatobabusi.co.za | Distress Signals (2022): A Survival Story That Quietly Hits Harder Than You Expect](https://thatobabusi.co.za/blog-legacy-single/distress-signals-2022-a-survival-story-that-quietly-hits-harder-than-you-expect) | `Blog` |
+| [thatobabusi.co.za | Black Mirror Review: The Show That Made Everyone Side-Eye Their Own Phone](https://thatobabusi.co.za/blog-legacy-single/black-mirror-review-the-show-that-made-everyone-sideeye-their-own-phone) | `Review` |
