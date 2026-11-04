@@ -10,10 +10,10 @@ auto-synced daily by the [Docs Automation workflow](../.github/workflows/docs-au
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | When Explanation Meets Perception: The Real Difference Between Reasons And Excuses](https://thatobabusi.co.za/blog-legacy-single/when-explanation-meets-perception-the-real-difference-between-reasons-and-excuses) | `Blog` |
-| [thatobabusi.co.za | The Art Of Taking An L](https://thatobabusi.co.za/blog-legacy-single/the-art-of-taking-an-l) | `Blog` |
-| [thatobabusi.co.za | In Defense Of The Repository Pattern](https://thatobabusi.co.za/blog-legacy-single/in-defense-of-the-repository-pattern) | `Architecture` |
+| [thatobabusi.co.za | Perspective Matters](https://thatobabusi.co.za/blog-legacy-single/perspective-matters) | `Blog` |
+| [thatobabusi.co.za | The Orville Review: The Show That Started As &quot;Family Guy In Space&quot; And Quietly Became Something Much Better](https://thatobabusi.co.za/blog-legacy-single/the-orville-review-the-show-that-started-as-family-guy-in-space-and-quietly-became-something-much-better) | `Review` |
+| [thatobabusi.co.za | F Is For Family Review: The Animated Series That Quietly Became One Of Netflix&#039;s Most Underrated Shows](https://thatobabusi.co.za/blog-legacy-single/f-is-for-family-review-the-animated-series-that-quietly-became-one-of-netflixs-most-underrated-shows) | `Review` |
+| [thatobabusi.co.za | Not Everything Requires Fixing](https://thatobabusi.co.za/blog-legacy-single/not-everything-requires-fixing) | `Blog` |
+| [thatobabusi.co.za | The Anatomy Of A Misunderstanding: Noise](https://thatobabusi.co.za/blog-legacy-single/the-anatomy-of-a-misunderstanding-noise) | `Blog` |
 | [thatobabusi.co.za | Boundaries](https://thatobabusi.co.za/blog-legacy-single/boundaries) | `Blog` |
-| [thatobabusi.co.za | Find Your Tribe](https://thatobabusi.co.za/blog-legacy-single/find-your-tribe) | `Blog` |
-| [thatobabusi.co.za | Black Mirror Review: The Show That Made Everyone Side-Eye Their Own Phone](https://thatobabusi.co.za/blog-legacy-single/black-mirror-review-the-show-that-made-everyone-sideeye-their-own-phone) | `Review` |
-| [thatobabusi.co.za | The Astronaut (2025): Space Horror, Isolation And The Fear Of Bringing Something Back Home](https://thatobabusi.co.za/blog-legacy-single/the-astronaut-2025-space-horror-isolation-and-the-fear-of-bringing-something-back-home) | `Blog` |
+| [thatobabusi.co.za | How To Combat Context Switching For Maximum Developer Productivity](https://thatobabusi.co.za/blog-legacy-single/how-to-combat-context-switching-for-maximum-developer-productivity) | `Productivity` |
