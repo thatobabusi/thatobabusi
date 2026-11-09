@@ -10,11 +10,11 @@ auto-synced daily by the [Docs Automation workflow](../.github/workflows/docs-au
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | The Invention Of Lying – Movie Review](https://thatobabusi.co.za/blog-legacy-single/the-invention-of-lying-movie-review) | `Review` |
-| [thatobabusi.co.za | Black Mirror Review: The Show That Made Everyone Side-Eye Their Own Phone](https://thatobabusi.co.za/blog-legacy-single/black-mirror-review-the-show-that-made-everyone-sideeye-their-own-phone) | `Review` |
-| [thatobabusi.co.za | Don’t Look Up: The Movie We Weren’t Supposed To Ignore](https://thatobabusi.co.za/blog-legacy-single/dont-look-up-the-movie-we-werent-supposed-to-ignore) | `Review` |
+| [thatobabusi.co.za | Deception By Design: Why “Finesse” Fails The Legal Test](https://thatobabusi.co.za/blog-legacy-single/deception-by-design-why-finesse-fails-the-legal-test) | `Blog` |
 | [thatobabusi.co.za | Delivery Run (2025): What Should Have Been A Simple Shift Turns Into A Nightmare](https://thatobabusi.co.za/blog-legacy-single/delivery-run-2025-what-should-have-been-a-simple-shift-turns-into-a-nightmare) | `Blog` |
-| [thatobabusi.co.za | The Shadows We Carry: A Review Of &#039;The Ninja&#039;](https://thatobabusi.co.za/blog-legacy-single/the-shadows-we-carry-a-review-of-the-ninja) | `Review` |
-| [thatobabusi.co.za | The Path Of Vengeance: A Review Of &#039;Zero&#039;](https://thatobabusi.co.za/blog-legacy-single/the-path-of-vengeance-a-review-of-zero) | `Review` |
-| [thatobabusi.co.za | I Used To Write](https://thatobabusi.co.za/blog-legacy-single/i-used-to-write) | `Blog` |
-| [thatobabusi.co.za | The Anatomy Of A Misunderstanding: Noise](https://thatobabusi.co.za/blog-legacy-single/the-anatomy-of-a-misunderstanding-noise) | `Blog` |
+| [thatobabusi.co.za | Braai Ettiqutte](https://thatobabusi.co.za/blog-legacy-single/braai-ettiqutte) | `Blog` |
+| [thatobabusi.co.za | A Single Voice, Heard Around The World: A Review Of &#039;I Am Malala&#039;](https://thatobabusi.co.za/blog-legacy-single/a-single-voice-heard-around-the-world-a-review-of-i-am-malala) | `Review` |
+| [thatobabusi.co.za | Boundaries](https://thatobabusi.co.za/blog-legacy-single/boundaries) | `Blog` |
+| [thatobabusi.co.za | Not Everything Requires Fixing](https://thatobabusi.co.za/blog-legacy-single/not-everything-requires-fixing) | `Blog` |
+| [thatobabusi.co.za | Livestream (2025): The Internet Watches Everything... Except When It Matters Most](https://thatobabusi.co.za/blog-legacy-single/livestream-2025-the-internet-watches-everything-except-when-it-matters-most) | `Blog` |
+| [thatobabusi.co.za | In Defense Of The Repository Pattern](https://thatobabusi.co.za/blog-legacy-single/in-defense-of-the-repository-pattern) | `Architecture` |
