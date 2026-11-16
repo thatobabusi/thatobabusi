@@ -315,8 +315,8 @@ I'm actively building software solutions and creating digital experiences that m
 |--------|-------|
 | ⭐ Experience | 13+ years systems development across 5 industries |
 | 📦 Public Repos | 21 on GitHub |
-| 👥 GitHub Followers | 23 |
-| 📝 Published Articles | 12 articles on [thatobabusi.co.za](https://thatobabusi.co.za/blog) |
+| 👥 GitHub Followers | 24 |
+| 📝 Published Articles | 13 articles on [thatobabusi.co.za](https://thatobabusi.co.za/blog) |
 | 💻 Active Projects | 12+ (Boom Bap Producer VST3 plugin suite, win12, IPTV, Full-Stack Upskilling, +8 more) |
 | 📊 Portfolio Projects | 11 public/notable projects showcased |
 | 🌍 Industries Served | Aviation & Auditing, Transport & Logistics, HRM, Media, Research |
@@ -357,7 +357,7 @@ I'm actively building software solutions and creating digital experiences that m
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | Mandy (2019): Proof That Confidence Can Carry You Further Than Common Sense Ever Could](https://thatobabusi.co.za/blog-legacy-single/mandy-2019-proof-that-confidence-can-carry-you-further-than-common-sense-ever-could) | `Blog` |
+| [thatobabusi.co.za | The Orville Review: The Show That Started As &quot;Family Guy In Space&quot; And Quietly Became Something Much Better](https://thatobabusi.co.za/blog-legacy-single/the-orville-review-the-show-that-started-as-family-guy-in-space-and-quietly-became-something-much-better) | `Review` |
 <!-- LATEST-POSTS:END -->
 
 **🔗 Subscribe:** [Blog RSS Feed](https://thatobabusi.co.za/blog)
