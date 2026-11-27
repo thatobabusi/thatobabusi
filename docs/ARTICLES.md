@@ -10,10 +10,10 @@ auto-synced daily by the [Docs Automation workflow](../.github/workflows/docs-au
 | [thatobabusi.co.za | Snowpiercer Review: The Train Never Stops And Neither Does The Drama](https://thatobabusi.co.za/blog-legacy-single/snowpiercer-review-the-train-never-stops-and-neither-does-the-drama) | `Review` |
 | [thatobabusi.co.za | Apex Review: Charlize Theron Reminds Everyone That Going Into The Wilderness Alone Is Already A Bad Idea](https://thatobabusi.co.za/blog-legacy-single/apex-review-charlize-theron-reminds-everyone-that-going-into-the-wilderness-alone-is-already-a-bad-idea) | `Review` |
 | [thatobabusi.co.za | Designated Survivor Review: The Political Thriller That Asks One Terrifying Question](https://thatobabusi.co.za/blog-legacy-single/designated-survivor-review-the-political-thriller-that-asks-one-terrifying-question) | `Review` |
-| [thatobabusi.co.za | The Art Of Taking An L](https://thatobabusi.co.za/blog-legacy-single/the-art-of-taking-an-l) | `Blog` |
-| [thatobabusi.co.za | Braai Ettiqutte](https://thatobabusi.co.za/blog-legacy-single/braai-ettiqutte) | `Blog` |
-| [thatobabusi.co.za | Mandy (2019): Proof That Confidence Can Carry You Further Than Common Sense Ever Could](https://thatobabusi.co.za/blog-legacy-single/mandy-2019-proof-that-confidence-can-carry-you-further-than-common-sense-ever-could) | `Blog` |
+| [thatobabusi.co.za | A Tapestry Of Resilience: A Review Of &#039;A Thousand Splendid Suns&#039;](https://thatobabusi.co.za/blog-legacy-single/a-tapestry-of-resilience-a-review-of-a-thousand-splendid-suns) | `Review` |
+| [thatobabusi.co.za | Find Your Tribe](https://thatobabusi.co.za/blog-legacy-single/find-your-tribe) | `Blog` |
+| [thatobabusi.co.za | Lord Of The Flies (2026): A New Generation Enters One Of Literature&#039;s Most Uncomfortable Questions](https://thatobabusi.co.za/blog-legacy-single/lord-of-the-flies-2026-a-new-generation-enters-one-of-literatures-most-uncomfortable-questions) | `Blog` |
+| [thatobabusi.co.za | How To Report System Bugs](https://thatobabusi.co.za/blog-legacy-single/how-to-report-system-bugs) | `Blog` |
+| [thatobabusi.co.za | The Echo Of A Kite: A Review Of &#039;The Kite Runner&#039;](https://thatobabusi.co.za/blog-legacy-single/the-echo-of-a-kite-a-review-of-the-kite-runner) | `Review` |
 | [thatobabusi.co.za | The Orville Review: The Show That Started As &quot;Family Guy In Space&quot; And Quietly Became Something Much Better](https://thatobabusi.co.za/blog-legacy-single/the-orville-review-the-show-that-started-as-family-guy-in-space-and-quietly-became-something-much-better) | `Review` |
-| [thatobabusi.co.za | Co-Signing On Social Credit](https://thatobabusi.co.za/blog-legacy-single/cosigning-on-social-credit) | `Blog` |
-| [thatobabusi.co.za | Hijack (2023) Review](https://thatobabusi.co.za/blog-legacy-single/hijack-2023-review) | `Review` |
-| [thatobabusi.co.za | The Shadows We Carry: A Review Of &#039;The Ninja&#039;](https://thatobabusi.co.za/blog-legacy-single/the-shadows-we-carry-a-review-of-the-ninja) | `Review` |
+| [thatobabusi.co.za | What Are Bugs](https://thatobabusi.co.za/blog-legacy-single/what-are-bugs) | `Blog` |
